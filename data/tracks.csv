@@ -1,0 +1,840 @@
+track_id,track_name,artist_name,artist_id,album_name,album_type,release_date,duration_ms,explicit,lastfm_listeners,lastfm_playcount,lastfm_top_tags
+69cLn7zwq2oIfnahAOIwV1,JB2 RADIO,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,JACKBOYS 2,album,2025-07-13,31507,True,45,96,[]
+5wNIHa6wvCCKP6fWgo3UAh,CHAMPAIN & VACAY,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,JACKBOYS 2,album,2025-07-13,184789,True,298252,2805085,['special']
+6Gp3pYkydEOkl8EHHJxa9s,2000 EXCURSION,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,JACKBOYS 2,album,2025-07-13,222986,True,225566,1662927,[]
+5P03xImM2uFukzoty7NDw7,KICK OUT,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,JACKBOYS 2,album,2025-07-13,170498,True,354706,3318749,"['rap', 'us', 'Energic']"
+1rQEgtQNsj63xIUzEmKbML,DUMBO,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,JACKBOYS 2,album,2025-07-13,238249,True,302929,3152297,"['special', 'trap']"
+2D8i2yY8z3kB5gRaUJ5weK,MM3,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,JACKBOYS 2,album,2025-07-13,174532,True,154,267,[]
+56jNpLhqZaI5IfJwwMdkRQ,VELOUR,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,JACKBOYS 2,album,2025-07-13,144841,True,115,209,[]
+7ydu79RLStYQTOi1OM6Dvg,CONTEST,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,JACKBOYS 2,album,2025-07-13,272410,True,171774,1003352,[]
+3nr3oHUp1yTHnjgarY8KX0,ILMB,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,JACKBOYS 2,album,2025-07-13,184630,True,70,257,[]
+26N5kAVhlqFOWAkuMQ5Kwe,WHERE WAS YOU,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,JACKBOYS 2,album,2025-07-13,272941,True,231675,1956284,[]
+22f5gVlJXlTRSCezQDISFn,NO COMMENTS,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,JACKBOYS 2,album,2025-07-13,129603,True,178,356,[]
+3LjZ6PqqXfwkcnLOkgLGKI,BEEP BEEP,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,JACKBOYS 2,album,2025-07-13,234654,True,158156,877838,[]
+5820PtzfB116EIALe50F6t,PBT,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,JACKBOYS 2,album,2025-07-13,250982,True,156010,770841,[]
+4lUAlhQOVzhitQKjxrHVny,SHYNE,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,JACKBOYS 2,album,2025-07-13,193183,True,238642,1356342,[]
+22itRNJ0N4sB8RSeofp7pW,OUTSIDE,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,JACKBOYS 2,album,2025-07-13,183320,True,348726,3098349,[]
+7HFdogJVrkXSm0qBf1JlOB,CANT STOP,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,JACKBOYS 2,album,2025-07-13,132489,True,86,158,[]
+4vqwVaEqLNWo3UXhQi5IFH,FLORIDA FLOW,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,JACKBOYS 2,album,2025-07-13,328574,True,128411,666500,[]
+0hL9gOw6XBWsygEUcVjxEc,HYAENA,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,UTOPIA,album,2023-07-28,222085,True,671537,9257562,"['experimental hip hop', 'Southern Hip Hop', 'industrial hip hop', 'hardcore hip hop', 'folkhop']"
+1PH2MDbcBAU094DlgTIND1,THANK GOD,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,UTOPIA,album,2023-07-28,184888,True,655984,9238015,"['trap', 'Christian hip hop', 'experimental hip hop', 'synthwave', 'cloud rap']"
+3KCNiDi9Pza6ZD8FggNoaw,MODERN JAM (feat. Teezo Touchdown),Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,UTOPIA,album,2023-07-28,255412,True,481919,6823256,"['industrial hip hop', 'travis scott', 'Teezo Touchdown', '-1001703352985', 'hip hop']"
+4kjI1gwQZRKNDkw1nI475M,MY EYES,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,UTOPIA,album,2023-07-28,251249,True,935737,21248651,"['chillwave', 'cloud rap', 'Southern Hip Hop', 'Neo-Psychedelia', 'wave']"
+04WxWo7XeVyx22xEsrWRUb,GOD'S COUNTRY,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,UTOPIA,album,2023-07-28,127991,True,552683,6280003,"['travis scott', 'trap', 'Neo-Psychedelia', 'Southern Hip Hop', 'Kanye West']"
+7LSpFCvRZZot2AlmkUzy9k,SIRENS,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,UTOPIA,album,2023-07-28,204447,True,550698,6965014,"['experimental hip hop', 'travis scott', 'Neo-Psychedelia', 'spoken word', 'uk bass']"
+67nepsnrcZkowTxMWigSbb,MELTDOWN (feat. Drake),Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,UTOPIA,album,2023-07-28,246133,True,759883,11318901,"['trap', 'rap', 'travis scott', 'Drake', '2023']"
+42VsgItocQwOQC3XWZ8JNA,FE!N (feat. Playboi Carti),Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,UTOPIA,album,2023-07-28,191700,True,1472792,28544356,"['rage', 'hype', 'Playboi Carti', 'rap', 'Southern Hip Hop']"
+0OEe83mMZ5kaNw5uZQ7ilG,DELRESTO (ECHOES) (feat. Beyoncé),Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,UTOPIA,album,2023-07-28,274137,False,389449,3402225,[]
+6wsqVwoiVH2kde4k4KKAFU,I KNOW ?,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,UTOPIA,album,2023-07-28,211582,True,1055933,20896700,"['trap', 'Southern Hip Hop', 'travis scott', 'pop rap', 'mobb music']"
+0lodMO0qK83vfPiiD7FMEt,TOPIA TWINS (feat. Rob49 & 21 Savage),Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,UTOPIA,album,2023-07-28,223173,True,639133,8278914,"['Rob49', 'trap', '2023', 'travis scott', '21 savage']"
+4GL9GMX9t7Qkprvf1YighZ,CIRCUS MAXIMUS (feat. The Weeknd & Swae Lee),Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,UTOPIA,album,2023-07-28,258842,True,427646,5218610,"['travis scott', 'swae lee', 'The Weeknd', 'rap', 'Progressive']"
+2Q0aElTZQtEUsoiaQfizu6,PARASAIL (feat. Yung Lean & Dave Chappelle),Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,UTOPIA,album,2023-07-28,154964,False,383606,3388960,[]
+0bkV1iQHSxBaksUqgEkcbc,SKITZO (feat. Young Thug),Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,UTOPIA,album,2023-07-28,366592,True,409332,5005931,"['travis scott', 'Young Thug', 'trap', 'schizophrenia', '2023']"
+7EiUtdeoWcKqLi5ELZCjYf,LOST FOREVER (feat. Westside Gunn),Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,UTOPIA,album,2023-07-28,163071,True,411810,4546287,[]
+0a4SMs889NwP8oWI7Vemle,LOOOVE (feat. Kid Cudi),Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,UTOPIA,album,2023-07-28,226715,True,363887,4226252,[]
+4o82J5zr4DFEs9yj5szCVX,K-POP (feat. Bad Bunny & The Weeknd),Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,UTOPIA,album,2023-07-28,185220,True,291257,2546217,[]
+1i9lZvlaDdWDPyXEE95aiq,TELEKINESIS (feat. SZA & Future),Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,UTOPIA,album,2023-07-28,353754,True,803723,12919386,"['-1001760493747', 'sza', 'rnb', 'Hip-Hop', 'alternative rnb']"
+76gcXhY3Zv6wW0BTe9nHJo,TIL FURTHER NOTICE (feat. James Blake & 21 Savage),Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,UTOPIA,album,2023-07-28,314836,True,552023,9222800,"['trap', 'travis scott', '21 savage', '-1001740215468', 'James Blake']"
+7h0d2h0fUmzbs7zeFigJPn,HIGHEST IN THE ROOM (feat. ROSALÍA & Lil Baby) - REMIX,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,JACKBOYS,album,2019-12-27,244873,True,312912,2118204,[]
+62zKJrpbLxz6InR3tGyr7o,JACKBOYS,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,JACKBOYS,album,2019-12-27,46836,True,172,820,[]
+6uJONCdr2rC65BNmCnTBWK,GANG GANG,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,JACKBOYS,album,2019-12-27,244760,True,435,2874,[]
+7LGWmZaoS7jZJ5tEi9EcDi,HAD ENOUGH (feat. Quavo & Offset),Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,JACKBOYS,album,2019-12-27,157133,True,171,781,[]
+6gi6y1xwmVszDWkUqab1qw,OUT WEST (feat. Young Thug),Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,JACKBOYS,album,2019-12-27,157712,True,1436,4744,[]
+4AO1XhrgJczQ9bNVxdfKQe,WHAT TO DO? (feat. Don Toliver),Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,JACKBOYS,album,2019-12-27,250141,True,656,2304,[]
+40mjsnRjCpycdUw3xhS20g,GATTI,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,JACKBOYS,album,2019-12-27,181144,True,703,2058,[]
+7wBJfHzpfI3032CSD7CE2m,STARGAZING,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,ASTROWORLD,album,2018-08-03,270714,True,860263,13923413,"['trap', 'pop rap', 'travis scott', 'rap', 'Neo-Psychedelia']"
+7KZ5MMVgBVox9ycroB2UrI,CAROUSEL,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,ASTROWORLD,album,2018-08-03,180182,True,554628,6756971,"['trap', 'Frank Ocean', 'Neo-Psychedelia', 'rap', 'pop rap']"
+2xLMifQCjDGFmkHkpNLD9h,SICKO MODE,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,ASTROWORLD,album,2018-08-03,312820,True,1565947,21077832,"['trap', 'rap', '2018', 'Drake', 'Hip-Hop']"
+4SZepBIPDRwPaHIjAKwRDb,R.I.P. SCREW,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,ASTROWORLD,album,2018-08-03,185610,True,543324,6935332,[]
+1xYpVRspgaLxdJLOTQkTjg,STOP TRYING TO BE GOD,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,ASTROWORLD,album,2018-08-03,338438,True,578866,7931543,"['trap', 'cloud rap', 'Psychedelic Soul', 'rap', 'alternative rnb']"
+6OaVWaGfhXn70ZJfdVcabn,NO BYSTANDERS,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,ASTROWORLD,album,2018-08-03,218283,True,677660,9872258,"['Southern Hip Hop', 'pop rap', 'trap', 'travis scott', 'Juice WRLD']"
+6NMtzpDQBTOfJwMzgMX0zl,SKELETONS,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,ASTROWORLD,album,2018-08-03,145588,True,1029094,21456295,"['tame impala', 'The Weeknd', 'Hip-Hop', 'hip hop', 'Pharrell']"
+20MuVazoNMv6xjKPnRFOxG,WAKE UP,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,ASTROWORLD,album,2018-08-03,231963,True,553501,6620530,[]
+11kDth1aKUEUMq9r1pqyds,5% TINT,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,ASTROWORLD,album,2018-08-03,196138,True,881016,11023569,"['trap', 'rap', 'ambient', 'psychedelic', 'pop rap']"
+6BJbOXDlgVAXSaq6wYFYT2,NC-17,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,ASTROWORLD,album,2018-08-03,156885,True,442912,4692244,[]
+4MXhiYIRDMGAuvZc5IFTwC,ASTROTHUNDER,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,ASTROWORLD,album,2018-08-03,142969,True,928426,18460093,"['trap', 'cloud rap', 'rap', 'pop rap', 'travis scott']"
+7lAK3oHbfEnvUQWosrMMpR,YOSEMITE,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,ASTROWORLD,album,2018-08-03,150043,False,840088,11882005,"['trap', 'cloud rap', 'gunna', 'rap', 'nav']"
+27a1mYSG5tYg7dmEjWBcmL,CAN'T SAY,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,ASTROWORLD,album,2018-08-03,198408,True,1011146,17730236,"['trap', 'rap', 'don toliver', 'travis scott', 'pop rap']"
+4KYS9GK68yeuUJ8vJfPxrq,WHO? WHAT!,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,ASTROWORLD,album,2018-08-03,176720,True,485452,5345017,"['rap', 'trap', 'travis scott', 'Hip-Hop', 'takeoff']"
+2cYqizR4lgvp4Qu6IQ3qGN,BUTTERFLY EFFECT,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,ASTROWORLD,album,2018-08-03,190557,False,1347977,19019824,"['trap', 'rap', '2017', 'cloud rap', 'pop rap']"
+58TaFP5j5i9swOf584yon2,HOUSTONFORNICATION,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,ASTROWORLD,album,2018-08-03,217828,True,534859,7178312,"['pop rap', 'travis scott', 'psychedelic', 'rap', 'Houston']"
+6vnfObZ4Ys70SBAtti1xZ9,COFFEE BEAN,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,ASTROWORLD,album,2018-08-03,209115,True,626745,9674170,"['Neo-Psychedelia', 'Southern Hip Hop', 'boom bap', 'alternative rnb', 'travis scott']"
+7J6bnDDitOwfelaJNixHhL,Modern Slavery,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,"Huncho Jack, Jack Huncho",album,2017-12-21,148559,True,883,3803,[]
+628Ueb4sRiXApObhcU9iPU,Black & Chinese,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,"Huncho Jack, Jack Huncho",album,2017-12-21,172016,True,911,4100,[]
+4vwfOiyWxXeEdx4ejAJgdx,Eye 2 Eye,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,"Huncho Jack, Jack Huncho",album,2017-12-21,190678,True,170,677,[]
+7g7raxdQpiLZT7aOlib4S1,Motorcycle Patches,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,"Huncho Jack, Jack Huncho",album,2017-12-21,191409,True,807,3388,[]
+5vuiHi3QYbwcm1OKJOYnrf,Huncho Jack,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,"Huncho Jack, Jack Huncho",album,2017-12-21,199227,True,649,2682,[]
+7foypmc7KZyU716Yv63BPe,Saint,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,"Huncho Jack, Jack Huncho",album,2017-12-21,140792,True,930,3632,[]
+4RgoqOBE34Q6zZj8K7RUAx,Go,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,"Huncho Jack, Jack Huncho",album,2017-12-21,156530,True,568,2284,[]
+6urLjX35oXXRYtcH1b3dCh,Dubai Shit,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,"Huncho Jack, Jack Huncho",album,2017-12-21,228431,True,316,1160,[]
+7JGyxh8G8QZnu4AMJuCqlj,Saint Laurent Mask,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,"Huncho Jack, Jack Huncho",album,2017-12-21,190436,True,577,2546,[]
+7bTH8LgGSwyNNE4r1k95Zp,Moon Rock,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,"Huncho Jack, Jack Huncho",album,2017-12-21,151183,True,571,2530,[]
+7CWiWkccuRRdrmaW6AjVEf,How U Feel,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,"Huncho Jack, Jack Huncho",album,2017-12-21,205681,True,533,2345,[]
+11cCVYamncF0ezwjj1irQ0,Where U From,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,"Huncho Jack, Jack Huncho",album,2017-12-21,251968,True,501,2200,[]
+2hIFuoXhzcZGvmdtSE35lc,Best Man,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,"Huncho Jack, Jack Huncho",album,2017-12-21,266879,True,356,1284,[]
+55wlsNYqcfiQsHuX8l0jmF,Make Them Cry,Drake,3TVXtAsR1Inumwj472S9r4,ICEMAN,album,2026-05-15,307681,True,314306,1269545,"['trap', 'pop rap', 'boom bap', 'Drake', 'chipmunk soul']"
+4eE16RJFDKf2WxBTqqfylu,Dust,Drake,3TVXtAsR1Inumwj472S9r4,ICEMAN,album,2026-05-15,189217,True,301995,1583310,"['pop rap', 'trap', 'Drake', 'alternative rnb', 'trapsoul']"
+7KGHenqXZofXNm5MKDbT3J,Whisper My Name,Drake,3TVXtAsR1Inumwj472S9r4,ICEMAN,album,2026-05-15,222580,True,331887,2387418,"['special', 'rage', 'trap', 'pop rap', 'Drake']"
+514joG57v4yKTsfQmz7stz,Janice STFU,Drake,3TVXtAsR1Inumwj472S9r4,ICEMAN,album,2026-05-15,237344,True,426463,4138056,"['pop rap', 'rage', 'Drake', 'trap', 'memphis rap']"
+3DK90400cDlV5WUJPraMph,Ran To Atlanta (feat. Future & Molly Santana),Drake,3TVXtAsR1Inumwj472S9r4,ICEMAN,album,2026-05-15,247183,True,316088,2214060,"['molly santana', 'future', 'new jazz', 'rage', 'Drake']"
+6vjpQIdABqntoe3zPazPec,Shabang,Drake,3TVXtAsR1Inumwj472S9r4,ICEMAN,album,2026-05-15,188722,True,324271,2068757,"['downtempo', 'rap', 'pop rap', 'us', 'Energic']"
+57rkFdhoKjgkg16fsS4pgg,Make Them Pay,Drake,3TVXtAsR1Inumwj472S9r4,ICEMAN,album,2026-05-15,301950,True,234920,1198278,"['boom bap', 'jazz rap', 'Drake', 'Conscious Hip Hop', 'chipmunk soul']"
+1ijYk2EYwj0rGqYwtjiAUJ,Burning Bridges,Drake,3TVXtAsR1Inumwj472S9r4,ICEMAN,album,2026-05-15,225990,True,222821,1296847,"['rnb', 'pop rap', 'Drake', 'trap', 'cloud rap']"
+393OFJFZKIIv66JmJcNm9D,National Treasures,Drake,3TVXtAsR1Inumwj472S9r4,ICEMAN,album,2026-05-15,200830,True,349343,2569567,"['experimental hip hop', 'pop rap', 'Drake', 'trap', 'memphis rap']"
+4ygJHbpMGwZknVFaRikdFr,B's On The Table (feat. 21 Savage),Drake,3TVXtAsR1Inumwj472S9r4,ICEMAN,album,2026-05-15,137647,True,237952,1369086,"['fanfare', 'pop rap', 'trap', 'Drake', '21 savage']"
+7oDbkGSI3IRzKmhrTiQdID,What Did I Miss?,Drake,3TVXtAsR1Inumwj472S9r4,ICEMAN,album,2026-05-15,194324,True,455701,5228251,"['comeback', 'ICEMAN', '2025', 'Drake', 'Hip-Hop']"
+3cLCA9LSb6UiOeNvTZoaav,Plot Twist,Drake,3TVXtAsR1Inumwj472S9r4,ICEMAN,album,2026-05-15,195678,True,245876,1747922,"['trap', 'pop rap', 'Drake']"
+7COiiObIVJIdBcW3J43Iy2,2 Hard 4 The Radio,Drake,3TVXtAsR1Inumwj472S9r4,ICEMAN,album,2026-05-15,183500,True,249528,1752620,"['trap', 'pop rap', 'hyphy', 'Drake', 'ratchet']"
+73ycOMnODtUc2Ggj6EfCpO,Make Them Remember,Drake,3TVXtAsR1Inumwj472S9r4,ICEMAN,album,2026-05-15,323712,True,179071,806011,"['pop rap', 'trap', 'Drake', 'Conscious Hip Hop', 'chipmunk soul']"
+2XcmjSdYqdhFjyWFdbnBaY,Little Birdie,Drake,3TVXtAsR1Inumwj472S9r4,ICEMAN,album,2026-05-15,176541,True,179592,846194,"['trap', 'pop rap', 'trapsoul', 'Drake', 'florida fast music']"
+6cYGpGmnMeK9qWhRpaZOZ5,Don’t Worry,Drake,3TVXtAsR1Inumwj472S9r4,ICEMAN,album,2026-05-15,246417,True,177724,863583,"['trap', 'pop rap', 'memphis rap', 'Drake', 'cloud rap']"
+3rssNOLucK9fzsRcKonhYu,Firm Friends,Drake,3TVXtAsR1Inumwj472S9r4,ICEMAN,album,2026-05-15,302391,True,159787,676749,"['boom bap', 'jazz rap', 'Drake', 'Conscious Hip Hop', 'lo-fi hip hop']"
+1xO3PpGchMqMmmF6OEtH5Y,Make Them Know,Drake,3TVXtAsR1Inumwj472S9r4,ICEMAN,album,2026-05-15,248285,True,184401,974775,"['pop rap', 'Drake', 'alternative rnb', 'trapsoul', 'toronto sound']"
+41DHDnlRXQiNJf3GbisIYk,Rusty Intro,Drake,3TVXtAsR1Inumwj472S9r4,HABIBTI,album,2026-05-15,62303,True,121481,340855,[]
+6zZvy88xp6FIjJKhqwnJeQ,WNBA,Drake,3TVXtAsR1Inumwj472S9r4,HABIBTI,album,2026-05-15,178082,True,169204,854992,['Drake']
+3nwcQXP0mBmXmlrirQxCkz,Slap The City (feat. Qendresa),Drake,3TVXtAsR1Inumwj472S9r4,HABIBTI,album,2026-05-15,202105,True,125409,600028,[]
+6vAg7qqbiIrQhQtxPegLw1,High Fives,Drake,3TVXtAsR1Inumwj472S9r4,HABIBTI,album,2026-05-15,256783,True,148901,713464,['Drake']
+3raBR3SY78nNv4uGEv3CNY,Hurrr Nor Thurr (feat. Sexyy Red),Drake,3TVXtAsR1Inumwj472S9r4,HABIBTI,album,2026-05-15,188877,True,95167,301998,[]
+0SeTP12t4EwBJ6zsjHn9Wa,I'm Spent (feat. Loe Shimmy),Drake,3TVXtAsR1Inumwj472S9r4,HABIBTI,album,2026-05-15,144901,True,118491,668922,"['Loe Shimmy', 'Drake']"
+3hZbi8AG14hRw5Skg7V8pl,Classic,Drake,3TVXtAsR1Inumwj472S9r4,HABIBTI,album,2026-05-15,179074,True,129572,755852,['Drake']
+0s3NwbrNRsUTVJVdBeD5Wa,Gen 5,Drake,3TVXtAsR1Inumwj472S9r4,HABIBTI,album,2026-05-15,217438,True,105622,559491,[]
+6o6cIHT9YvlrUD2bOHo4hB,White Bone,Drake,3TVXtAsR1Inumwj472S9r4,HABIBTI,album,2026-05-15,297150,True,99067,546104,[]
+0F1rlXkOcI1Iqfz9Y3BdO4,Fortworth (feat. PARTYNEXTDOOR),Drake,3TVXtAsR1Inumwj472S9r4,HABIBTI,album,2026-05-15,231879,True,138729,744292,"['Drake', 'peak', 'partynextdoor']"
+5BRkZvrogjXJlvPEzb4POg,Prioritizing,Drake,3TVXtAsR1Inumwj472S9r4,HABIBTI,album,2026-05-15,233404,True,84271,310906,[]
+0O6lm9N6qJclxNFHl51nkr,Hoe Phase,Drake,3TVXtAsR1Inumwj472S9r4,MAID OF HONOUR,album,2026-05-15,203746,True,178036,919637,"['miami bass', 'dance', 'hip house', 'Drake', 'jersey club']"
+6p0Ai6wRjz9CmjqkhoKOwf,Road Trips,Drake,3TVXtAsR1Inumwj472S9r4,MAID OF HONOUR,album,2026-05-15,243232,True,150142,938209,"['dance', 'electropop', 'new wave', 'synthpop', 'atlanta bass']"
+0EsJdOSOrBfTo816lWRW4Q,Outside Tweaking (feat. Stunna Sandy),Drake,3TVXtAsR1Inumwj472S9r4,MAID OF HONOUR,album,2026-05-15,190578,True,101953,340428,[]
+1AFW3QBDjBmb4EL9gyiYhe,Cheetah Print (feat. Sexyy Red),Drake,3TVXtAsR1Inumwj472S9r4,MAID OF HONOUR,album,2026-05-15,202466,True,137957,506284,[]
+4qLHbbVJjNsOqWxHrTtvgx,Which One (feat. Central Cee),Drake,3TVXtAsR1Inumwj472S9r4,MAID OF HONOUR,album,2026-05-15,169134,True,0,0,[]
+6hFjD546JTuTsUS6GawtVF,Amazing Shape (feat. Popcaan),Drake,3TVXtAsR1Inumwj472S9r4,MAID OF HONOUR,album,2026-05-15,176393,True,90646,278379,[]
+4gIzhWC1f98N3NtNlyPfY5,BBW,Drake,3TVXtAsR1Inumwj472S9r4,MAID OF HONOUR,album,2026-05-15,211859,True,100714,344389,[]
+5njYiWKlMfU1HkOyetTRg8,True Bestie (feat. Iconic Savvy),Drake,3TVXtAsR1Inumwj472S9r4,MAID OF HONOUR,album,2026-05-15,148855,True,92294,321346,[]
+3WjmqBYVBac2PNZyGaiZnP,Where’s Your Stuff Interlude,Drake,3TVXtAsR1Inumwj472S9r4,MAID OF HONOUR,album,2026-05-15,52010,True,81362,210035,[]
+5dYyoRxPWVaV36XSD49yGS,New Bestie,Drake,3TVXtAsR1Inumwj472S9r4,MAID OF HONOUR,album,2026-05-15,259864,True,104790,533395,[]
+7ppIKUHCFQGCQny1Se2jLV,Q&A,Drake,3TVXtAsR1Inumwj472S9r4,MAID OF HONOUR,album,2026-05-15,223255,True,96495,364854,[]
+02nXNKtNtO04TwnJpQrEWN,Stuck,Drake,3TVXtAsR1Inumwj472S9r4,MAID OF HONOUR,album,2026-05-15,177137,True,93509,425404,[]
+25vFrwbvXqZpzu03R5Lzjq,Goose and The Juice,Drake,3TVXtAsR1Inumwj472S9r4,MAID OF HONOUR,album,2026-05-15,263715,True,85385,324986,[]
+2OrkG4TIWdm5ZhBwpbr3o0,Princess,Drake,3TVXtAsR1Inumwj472S9r4,MAID OF HONOUR,album,2026-05-15,193748,True,91038,414478,[]
+4u43I0LP2Xf85OAS85eG0R,CN TOWER,Drake,3TVXtAsR1Inumwj472S9r4,$ome $exy $ongs 4 U,album,2025-02-14,241889,True,651,3222,[]
+7DL2F2bueQycqYjqsjHYjG,MOTH BALLS,Drake,3TVXtAsR1Inumwj472S9r4,$ome $exy $ongs 4 U,album,2025-02-14,212629,True,434,2106,[]
+1F6nHHDJyTHLgDDFj1ZZDt,SOMETHING ABOUT YOU,Drake,3TVXtAsR1Inumwj472S9r4,$ome $exy $ongs 4 U,album,2025-02-14,218682,True,779,5655,[]
+5aIEFCKhVUM5sKkwOSdFiM,CRYING IN CHANEL,Drake,3TVXtAsR1Inumwj472S9r4,$ome $exy $ongs 4 U,album,2025-02-14,199602,True,177149,1263578,[]
+4GqhG9rDuRUoNyDSMJ0Brq,SPIDER-MAN SUPERMAN,Drake,3TVXtAsR1Inumwj472S9r4,$ome $exy $ongs 4 U,album,2025-02-14,203893,True,614,1896,[]
+4JeD0FGslDsMeeahEGZa2L,DEEPER,Drake,3TVXtAsR1Inumwj472S9r4,$ome $exy $ongs 4 U,album,2025-02-14,172337,True,54,844,[]
+1YHQQFtKqFSFrqL4cNvstU,SMALL TOWN FAME,Drake,3TVXtAsR1Inumwj472S9r4,$ome $exy $ongs 4 U,album,2025-02-14,148509,True,180376,1692906,[]
+3CY3zAjrxKVInh2Lq1QiRb,PIMMIE'S DILEMMA,Drake,3TVXtAsR1Inumwj472S9r4,$ome $exy $ongs 4 U,album,2025-02-14,118153,False,210,700,[]
+3FHO87BSOEVAsedSnCTnvz,BRIAN STEEL,Drake,3TVXtAsR1Inumwj472S9r4,$ome $exy $ongs 4 U,album,2025-02-14,111406,True,144432,1089237,[]
+5Nz7hI3cCOHmMR4vSLJ1An,GIMME A HUG,Drake,3TVXtAsR1Inumwj472S9r4,$ome $exy $ongs 4 U,album,2025-02-14,193054,True,270410,3552179,[]
+2xxb5zW09uwbgyLprALi9E,RAINING IN HOUSTON,Drake,3TVXtAsR1Inumwj472S9r4,$ome $exy $ongs 4 U,album,2025-02-14,244931,True,159439,1510182,[]
+2vjFTjmvpFjFM01cNdG2ik,LASERS,Drake,3TVXtAsR1Inumwj472S9r4,$ome $exy $ongs 4 U,album,2025-02-14,198692,True,279,1056,[]
+0o5p5zzRN84q6qVbOVONPM,MEET YOUR PADRE,Drake,3TVXtAsR1Inumwj472S9r4,$ome $exy $ongs 4 U,album,2025-02-14,271058,False,532,11957,[]
+2u9S9JJ6hTZS3Vf22HOZKg,NOKIA,Drake,3TVXtAsR1Inumwj472S9r4,$ome $exy $ongs 4 U,album,2025-02-14,241023,True,785018,11635232,"['Drake', 'pop rap', 'atlanta bass', '2025', 'electro']"
+0NUqi0ps17YpLUC3kgsZq0,DIE TRYING,Drake,3TVXtAsR1Inumwj472S9r4,$ome $exy $ongs 4 U,album,2025-02-14,195431,True,1551,7587,[]
+2kZoOj1n5vk9BuF0sih58M,SOMEBODY LOVES ME,Drake,3TVXtAsR1Inumwj472S9r4,$ome $exy $ongs 4 U,album,2025-02-14,182767,True,1304,5024,[]
+578CwfxpfH2HxlENOCHc2n,CELIBACY,Drake,3TVXtAsR1Inumwj472S9r4,$ome $exy $ongs 4 U,album,2025-02-14,235620,True,355,1111,[]
+775a936b2Vzl3fw86FaVat,OMW,Drake,3TVXtAsR1Inumwj472S9r4,$ome $exy $ongs 4 U,album,2025-02-14,233030,True,286,2855,[]
+1mKNJs35ede94bTPWveVOo,GLORIOUS,Drake,3TVXtAsR1Inumwj472S9r4,$ome $exy $ongs 4 U,album,2025-02-14,205082,True,213,939,[]
+6mmPe3Y3SEtYb9HZsHTyrj,WHEN HE'S GONE,Drake,3TVXtAsR1Inumwj472S9r4,$ome $exy $ongs 4 U,album,2025-02-14,209836,True,339,1031,[]
+2MjQmsRAUArE2GDwjsVew3,GREEDY,Drake,3TVXtAsR1Inumwj472S9r4,$ome $exy $ongs 4 U,album,2025-02-14,386165,False,373,1982,[]
+6YV2AI87l1n2fzqU8Dyo05,Virginia Beach,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs Scary Hours Edition,album,2023-11-17,251094,True,536872,7279057,"['pop rap', 'rnb', 'Drake', 'chipmunk soul', 'alternative rnb']"
+59ZmQR4pwCaa5iM3veM7Cs,Amen (feat. Teezo Touchdown),Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs Scary Hours Edition,album,2023-11-17,141212,True,363870,2576010,[]
+2R30S0W4JCM9JaQWlpmeWn,Calling For You (feat. 21 Savage),Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs Scary Hours Edition,album,2023-11-17,285630,True,349545,2155599,[]
+6LFW4dEsLeiGluniXRgVYr,Fear Of Heights,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs Scary Hours Edition,album,2023-11-17,155154,True,353072,2776362,[]
+1us5wNgZc0YLT8RQQs2Q7L,Daylight,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs Scary Hours Edition,album,2023-11-17,164142,True,361999,2727643,[]
+6xIsHPRHdbzU6UMVFn4wh8,First Person Shooter (feat. J. Cole),Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs Scary Hours Edition,album,2023-11-17,247444,True,711804,8287729,"['rap', 'j cole', 'Hip-Hop', 'trap', '2023']"
+2uvBprdlMpzeN5Bq0PzMBI,IDGAF (feat. Yeat),Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs Scary Hours Edition,album,2023-11-17,260111,True,833007,11440063,"['my top songs', 'rage', 'Yeat', 'nu jazz', 'vocal jazz']"
+0pdMOh52apEWAS1xELJY7Q,7969 Santa,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs Scary Hours Edition,album,2023-11-17,259846,True,307909,2361440,[]
+4gQBXN2GBRpemMuxg5y3h9,Slime You Out (feat. SZA),Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs Scary Hours Edition,album,2023-11-17,310490,True,545102,5533987,"['Hip-Hop', 'Drake', 'sza', '2023', 'ass']"
+3nHat22UwPywIevUrXIhy1,Bahamas Promises,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs Scary Hours Edition,album,2023-11-17,184089,True,328889,3063818,[]
+5BTu8L170anjdgSohdBkkv,Tried Our Best,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs Scary Hours Edition,album,2023-11-17,209990,True,331399,4041322,"['Drake', 'contemporary rnb', 'pop rap', 'alternative rnb', '2023']"
+71VKjJjn76sn5Tt8X8Ay8c,Screw The World - Interlude,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs Scary Hours Edition,album,2023-11-17,112093,True,202732,847554,[]
+7jKNxYzPFGDWEemcRVebLb,Drew A Picasso,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs Scary Hours Edition,album,2023-11-17,262768,True,277212,3016090,[]
+7uHF03xE84sQ5PicRNH3yu,Members Only (feat. PARTYNEXTDOOR),Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs Scary Hours Edition,album,2023-11-17,277720,True,292917,2724985,[]
+4e0uZkMYa8e8HJ5TEUN417,What Would Pluto Do,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs Scary Hours Edition,album,2023-11-17,182998,True,281233,2635089,[]
+04BF53Rb6LOpDUJG518IqS,All The Parties (feat. Chief Keef),Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs Scary Hours Edition,album,2023-11-17,218611,True,310921,2394815,[]
+1dKXBUKx7oCB2UXlkihNn8,8am in Charlotte,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs Scary Hours Edition,album,2023-11-17,266847,True,354541,4364287,[]
+4bF4MxTGnNj8dTW0LZmAx5,BBL Love - Interlude,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs Scary Hours Edition,album,2023-11-17,161363,True,192384,1120336,[]
+3BE3IYsAhqkTiRIR7T7x7M,Gently (feat. Bad Bunny),Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs Scary Hours Edition,album,2023-11-17,133694,True,305781,2461721,[]
+2DSy4HfDQoBsPPcRSoeM16,Rich Baby Daddy (feat. Sexyy Red & SZA),Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs Scary Hours Edition,album,2023-11-17,319191,True,768464,8563645,"['pop rap', 'Drake', '2023', 'sza', 'atlanta bass']"
+6N7CsPNdryWPtG5CTmCHpx,Another Late Night (feat. Lil Yachty),Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs Scary Hours Edition,album,2023-11-17,170414,True,324645,3270439,[]
+2QThr0NmKP43AbPOrW2cDl,Away From Home,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs Scary Hours Edition,album,2023-11-17,258592,True,233777,2017723,[]
+1GZJGEId948OqKmf24ubj5,Polar Opposites,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs Scary Hours Edition,album,2023-11-17,257180,True,229275,2141508,[]
+5Mc8XDfGQCMkOEZm9rS1cE,Red Button,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs Scary Hours Edition,album,2023-11-17,160049,True,207372,1636263,[]
+0ZB5pdrM1leH58IgokDPZM,Stories About My Brother,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs Scary Hours Edition,album,2023-11-17,264130,True,223386,2128776,[]
+2Mph2Rvl5kVg0MYtfV60wZ,The Shoe Fits,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs Scary Hours Edition,album,2023-11-17,374025,True,162799,1221568,[]
+4ASBfwBwwo7DTT2zq9YSLP,Wick Man,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs Scary Hours Edition,album,2023-11-17,181428,True,144536,871134,[]
+2ut4BOQSqxLpcX5MtPjzYa,Evil Ways (feat. J. Cole),Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs Scary Hours Edition,album,2023-11-17,227692,True,212000,1364648,[]
+5Se32hEA9raeboZerywxka,You Broke My Heart,Drake,3TVXtAsR1Inumwj472S9r4,For All The Dogs Scary Hours Edition,album,2023-11-17,230709,True,405493,5184322,"['2023', 'Drake', 'Hip-Hop', 'rap', 'trap']"
+5gOfC9UzZQzTyShqPMrpjT,wacced out murals,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,GNX,album,2024-11-22,317092,True,813455,7009446,"['trap', 'hardcore hip hop', 'west coast hip hop', 'Conscious Hip Hop', 'weightless']"
+0nj9Bq5sHDiTxSHunhgkFb,squabble up,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,GNX,album,2024-11-22,157992,True,1196212,15330875,"['hyphy', 'Ratchet Music', 'rap', 'Hip-Hop', 'west coast hip hop']"
+45J4avUb9Ni0bnETYaYFVJ,luther (with sza),Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,GNX,album,2024-11-22,177598,False,1584540,28989324,"['Trap Soul', 'pop rap', 'trap', 'rnb', 'sza']"
+5ho7VSXSmI2KM2nDjcnLyz,man at the garden,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,GNX,album,2024-11-22,233173,True,731236,5468587,"['Conscious Hip Hop', 'cloud rap', 'trip hop', 'west coast hip hop', 'chillwave']"
+5S8VwnB4sLi6W0lYTWYylu,hey now (feat. dody6),Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,GNX,album,2024-11-22,217478,True,695238,7916516,"['nervous music', 'rap', 'hardcore hip hop', 'Hip-Hop', 'kendrick lamar']"
+0RgjEkSbeuStKfT2Pa4Zai,reincarnated,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,GNX,album,2024-11-22,275740,True,733967,7728724,"['hardcore hip hop', 'Conscious Hip Hop', 'Christian hip hop', 'G-funk', 'boom bap']"
+0aB0v4027ukVziUGwVGYpG,tv off (feat. lefty gunplay),Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,GNX,album,2024-11-22,220690,True,1296883,17926753,"['G-funk', 'hyphy', 'Ratchet Music', 'hardcore hip hop', 'west coast hip hop']"
+4K1Pg0FLno1ltzX3jeqT83,"dodger blue (feat. wallie the sensei, siete7x, roddy ricch)",Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,GNX,album,2024-11-22,131240,True,629799,6379247,"['alternative rnb', 'rnb', 'alt-pop', 'G-funk', 'chillsynth']"
+2Uts1QFB4u2YNIMiqcb4de,peekaboo (feat. azchike),Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,GNX,album,2024-11-22,155917,True,758925,7853449,"['nervous music', 'hardcore hip hop', 'Ratchet Music', 'hip hop', 'west coast hip hop']"
+1SGvjfc85yzqKXsfKcCxn2,heart pt. 6,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,GNX,album,2024-11-22,292461,True,786052,8053512,"['boom bap', 'Conscious Hip Hop', 'west coast hip hop', 'hip hop', 'G-funk']"
+3aZptNYC6Z1YoumeqZcDcQ,"gnx (feat. hitta j3, youngthreat, peysoh)",Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,GNX,album,2024-11-22,193539,True,460108,3139952,[]
+0wgOhYnqZKjOHr6bmdz0aN,gloria (with sza),Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,GNX,album,2024-11-22,287522,True,582696,5227635,"['trip hop', 'Neo-Soul', 'boom bap', 'pop rap', 'sza']"
+5Gt9bxniM1SxN61yRzRhXL,United In Grief,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Mr. Morale & The Big Steppers,album,2022-05-13,255377,True,1248878,14857364,"['jazz rap', 'Conscious Hip Hop', 'jazzstep', 'rap', 'experimental hip hop']"
+0fX4oNGBWO3dSGUZcVdVV2,N95,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Mr. Morale & The Big Steppers,album,2022-05-13,195950,True,1264926,20328276,"['rap', 'trap', 'Conscious Hip Hop', 'Hip-Hop', '2022']"
+66mVPWmFvXPFf8pjK5ttOW,Worldwide Steppers,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Mr. Morale & The Big Steppers,album,2022-05-13,203367,True,709858,5123209,[]
+2g6tReTlM2Akp41g0HaeXN,Die Hard,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Mr. Morale & The Big Steppers,album,2022-05-13,239026,True,1064392,16188092,"['rnb', 'rap', 'pop rap', 'Neo-Soul', '2022']"
+28qA8y1sz0FTuSapsCxNOG,Father Time (feat. Sampha),Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Mr. Morale & The Big Steppers,album,2022-05-13,222497,True,922032,12727443,"['Conscious Hip Hop', 'rap', 'Neo-Soul', 'jazz rap', 'boom bap']"
+15pyFQHCTVp6T7vaWctSgO,Rich - Interlude,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Mr. Morale & The Big Steppers,album,2022-05-13,103319,True,569931,4487062,[]
+1QPreu0BNOrUfEb8HTd2qG,Rich Spirit,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Mr. Morale & The Big Steppers,album,2022-05-13,202285,True,925335,11671368,"['pop rap', 'Conscious Hip Hop', 'Ratchet Music', 'nervous music', 'west coast hip hop']"
+67XC51nlZncNpHmZ8rOU9a,We Cry Together,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Mr. Morale & The Big Steppers,album,2022-05-13,341307,True,656773,4552512,[]
+1REVvAphiSTJyKQ1fDpHa4,Purple Hearts,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Mr. Morale & The Big Steppers,album,2022-05-13,329295,True,661293,5380437,[]
+6BU1RZexmvJcBjgagVVt3M,Count Me Out,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Mr. Morale & The Big Steppers,album,2022-05-13,283642,True,1038900,16072971,"['trap', 'pop rap', 'Conscious Hip Hop', 'Neo-Soul', 'west coast hip hop']"
+4zMxWSP2qZUy5CBCH5PdzZ,Crown,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Mr. Morale & The Big Steppers,album,2022-05-13,264299,True,548289,3884541,[]
+3lzUeaCbcCDB5IXYfqWRlF,Silent Hill,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Mr. Morale & The Big Steppers,album,2022-05-13,220779,True,713464,7629292,"['kodak black', 'rap', 'Hip-Hop', 'trap', 'kendrick lamar']"
+5G4uLkFKdEZLcuNyeomQmE,Savior - Interlude,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Mr. Morale & The Big Steppers,album,2022-05-13,152985,True,493170,3500003,[]
+3drdWsJKiVCSQ2gKhd9BDT,Savior,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Mr. Morale & The Big Steppers,album,2022-05-13,224466,True,633757,7462153,[]
+1uY1X8YeBixs1FdQ3fQ7d4,Auntie Diaries,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Mr. Morale & The Big Steppers,album,2022-05-13,281069,True,530567,3626431,[]
+6CmpZfKUQ2KerzBFZ3QKFr,Mr. Morale,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Mr. Morale & The Big Steppers,album,2022-05-13,210841,True,555373,5198131,[]
+346SJSEbB6pNZMpwovxDiu,Mother I Sober (feat. Beth Gibbons of Portishead),Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Mr. Morale & The Big Steppers,album,2022-05-13,406528,True,457792,2951265,[]
+5xoYormSTltk6F9SlQV6mm,Mirror,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Mr. Morale & The Big Steppers,album,2022-05-13,256006,True,580180,6634596,"['Conscious Hip Hop', 'funk', 'chillwave', 'Neo-Soul', 'rnb']"
+5qbhVL3vB7HwWvb0042B7y,The Heart Part 5,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Mr. Morale & The Big Steppers,album,2022-05-13,332228,True,602340,7087022,"['Conscious Hip Hop', 'rap', 'funk', 'hip hop', 'west coast hip hop']"
+5qN4HFkapdAOV94XPryVof,Black Panther,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Black Panther The Album Music From And Inspired By,album,2018-02-09,130613,True,274973,1207954,[]
+3GCdLUSnKSMJhs4Tj6CV3s,"All The Stars (with SZA) - From ""Black Panther: The Album""",Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Black Panther The Album Music From And Inspired By,album,2018-02-09,232186,True,1122466,8077433,"['pop', 'sza', 'spotify top 100 vol 1', 'kendrick lamar']"
+4LmAnpjlhWTahvRkYR8xJa,X (with 2 Chainz & Saudi),Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Black Panther The Album Music From And Inspired By,album,2018-02-09,267426,True,764,2318,[]
+5jyyPsIGM2yqkZN9R3TmvN,The Ways (with Swae Lee),Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Black Panther The Album Music From And Inspired By,album,2018-02-09,238893,True,538,1567,[]
+7bUcBztfGqO7cSI2gMZeCI,Opps (with Yugen Blakrok),Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Black Panther The Album Music From And Inspired By,album,2018-02-09,180893,True,392,1503,[]
+0DJBgBiYeSn6n1AXAkFVE8,I Am,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Black Panther The Album Music From And Inspired By,album,2018-02-09,208760,True,5971,13373,[]
+2tPcTFiQF9MbVUyjZ3zDhA,Paramedic!,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Black Panther The Album Music From And Inspired By,album,2018-02-09,219306,True,1360,4925,[]
+4KXwFI9pgJLpUIAc9oSL8j,Bloody Waters (with Anderson .Paak & James Blake),Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Black Panther The Album Music From And Inspired By,album,2018-02-09,272306,True,308,860,[]
+1eLSF6HfrRA0AsNmTkUlKx,"King's Dead (with Kendrick Lamar, Future & James Blake)",Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Black Panther The Album Music From And Inspired By,album,2018-02-09,225266,True,1297,5077,[]
+4FpfU1O7WCLBnmwu5XAFk4,Redemption Interlude,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Black Panther The Album Music From And Inspired By,album,2018-02-09,85266,True,679,2071,[]
+76iVOVsliCHlWqKuDnCfhE,Redemption (with Babes Wodumo),Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Black Panther The Album Music From And Inspired By,album,2018-02-09,222093,True,274,903,[]
+35cOyocq8Gb6UcT0NWeTwn,Seasons (with Sjava & Reason),Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Black Panther The Album Music From And Inspired By,album,2018-02-09,242293,True,230,645,[]
+5cXg9IQS34FzLVdHhp7hu7,Big Shot (with Travis Scott),Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Black Panther The Album Music From And Inspired By,album,2018-02-09,221826,True,395718,2765903,[]
+77UjLW8j5UAGAGVGhR5oUK,Pray For Me (with Kendrick Lamar),Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,Black Panther The Album Music From And Inspired By,album,2018-02-09,211440,True,1735,6890,[]
+2PESSRrfGBuDrJ1I7rm8dc,DUCKWORTH.,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,DAMN. COLLECTORS EDITION.,album,2017-12-08,248613,True,1062853,14173070,"['Conscious Hip Hop', 'west coast hip hop', 'kendrick lamar', 'rap', 'Neo-Soul']"
+4suzR7RVn00QijvJPkMVMf,GOD.,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,DAMN. COLLECTORS EDITION.,album,2017-12-08,248826,True,621354,4750433,[]
+28J8MZFrSMvd5gWxAGRBq1,FEAR.,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,DAMN. COLLECTORS EDITION.,album,2017-12-08,460573,True,754425,7481813,"['Conscious Hip Hop', 'west coast hip hop', 'hip hop', 'Hip-Hop', 'Neo-Soul']"
+0lJZRic5kToowUXH35uy7P,XXX. FEAT. U2.,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,DAMN. COLLECTORS EDITION.,album,2017-12-08,254200,True,809755,10294253,"['Conscious Hip Hop', 'U2', 'experimental hip hop', 'jazz rap', 'kendrick lamar']"
+0R9U7yIlLm8KAL6iQbwKKT,LOVE. FEAT. ZACARI.,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,DAMN. COLLECTORS EDITION.,album,2017-12-08,213400,False,1750138,26307043,"['rnb', 'pop rap', 'trap', 'zacari', 'hip hop']"
+1PKNKessUE10zYclDWNRfE,LUST.,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,DAMN. COLLECTORS EDITION.,album,2017-12-08,307880,True,752774,6651284,"['Conscious Hip Hop', 'west coast hip hop', 'Political Hip Hop', 'trap rap', 'pop rap']"
+0gvQoTWRxsW5Rd7KgPp0u3,HUMBLE.,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,DAMN. COLLECTORS EDITION.,album,2017-12-08,177000,True,2325870,32153056,"['rap', 'trap', 'Hip-Hop', 'hip hop', '2017']"
+1P9LiOkE3LnKSYsoz1F8A7,PRIDE.,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,DAMN. COLLECTORS EDITION.,album,2017-12-08,275253,True,1860655,33906981,"['Conscious Hip Hop', 'Neo-Soul', 'west coast hip hop', 'rap', 'hip hop']"
+0Omhxcy38tjNxqVZshdfpf,LOYALTY. FEAT. RIHANNA.,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,DAMN. COLLECTORS EDITION.,album,2017-12-08,227360,True,1340341,16271502,"['Hip-Hop', 'pop rap', 'kendrick lamar', 'Rihanna', 'rnb']"
+3hKPfWwm32Nv7Xj57lrxeC,FEEL.,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,DAMN. COLLECTORS EDITION.,album,2017-12-08,214826,True,913946,9871620,"['Conscious Hip Hop', 'west coast hip hop', 'jazz rap', 'rap', 'Hip-Hop']"
+3uubYELqTxIOqGalMtUq63,ELEMENT.,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,DAMN. COLLECTORS EDITION.,album,2017-12-08,208733,True,1063549,12637349,"['Conscious Hip Hop', 'west coast hip hop', 'pop rap', 'rap', 'Hip-Hop']"
+7tC6nVqWp4FALU6I3li1g9,YAH.,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,DAMN. COLLECTORS EDITION.,album,2017-12-08,160293,True,901238,8590887,"['Conscious Hip Hop', 'west coast hip hop', 'trip hop', 'rnb', 'kendrick lamar']"
+4odAJ4IxmYzy3co4TeYP24,DNA.,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,DAMN. COLLECTORS EDITION.,album,2017-12-08,185946,True,1781723,25400220,"['rap', 'trap', 'Hip-Hop', 'hardcore hip hop', 'Conscious Hip Hop']"
+1WonGCoO1sz7I4aD0HRbXy,BLOOD.,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,DAMN. COLLECTORS EDITION.,album,2017-12-08,118066,True,777634,5759344,[]
+1n4jwRVXdkK2U34nBDUKKT,BLOOD.,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,DAMN.,album,2017-04-14,118066,True,777634,5759344,[]
+6HZILIRieu8S0iqY8kIKhj,DNA.,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,DAMN.,album,2017-04-14,185946,True,1781723,25400220,"['rap', 'trap', 'Hip-Hop', 'hardcore hip hop', 'Conscious Hip Hop']"
+4BHSjbYylfOH5WAGusDyni,YAH.,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,DAMN.,album,2017-04-14,160293,True,901238,8590887,"['Conscious Hip Hop', 'west coast hip hop', 'trip hop', 'rnb', 'kendrick lamar']"
+1EaKU4dMbesXXd3BrLCtYG,ELEMENT.,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,DAMN.,album,2017-04-14,208733,True,1063549,12637349,"['Conscious Hip Hop', 'west coast hip hop', 'pop rap', 'rap', 'Hip-Hop']"
+2LTlO3NuNVN70lp2ZbVswF,FEEL.,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,DAMN.,album,2017-04-14,214826,True,913946,9871620,"['Conscious Hip Hop', 'west coast hip hop', 'jazz rap', 'rap', 'Hip-Hop']"
+6SwRhMLwNqEi6alNPVG00n,LOYALTY. FEAT. RIHANNA.,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,DAMN.,album,2017-04-14,227360,True,1340341,16271502,"['Hip-Hop', 'pop rap', 'kendrick lamar', 'Rihanna', 'rnb']"
+6IZvVAP7VPPnsGX6bvgkqg,PRIDE.,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,DAMN.,album,2017-04-14,275253,True,1860655,33906981,"['Conscious Hip Hop', 'Neo-Soul', 'west coast hip hop', 'rap', 'hip hop']"
+7KXjTSCq5nL1LoYtL7XAwS,HUMBLE.,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,DAMN.,album,2017-04-14,177000,True,2325564,32150201,"['rap', 'trap', 'Hip-Hop', 'hip hop', '2017']"
+06FCvd7rrRcF3DdvWH5Isp,LUST.,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,DAMN.,album,2017-04-14,307880,True,752774,6651284,"['Conscious Hip Hop', 'west coast hip hop', 'Political Hip Hop', 'trap rap', 'pop rap']"
+6PGoSes0D9eUDeeAafB2As,LOVE. FEAT. ZACARI.,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,DAMN.,album,2017-04-14,213400,False,1750138,26307043,"['rnb', 'pop rap', 'trap', 'zacari', 'hip hop']"
+4iYRa2btalAzPZoSYfROqF,XXX. FEAT. U2.,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,DAMN.,album,2017-04-14,254200,True,809755,10294253,"['Conscious Hip Hop', 'U2', 'experimental hip hop', 'jazz rap', 'kendrick lamar']"
+23luOrEVHMfoX0AhfbQuS6,FEAR.,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,DAMN.,album,2017-04-14,460573,True,754425,7481813,"['Conscious Hip Hop', 'west coast hip hop', 'hip hop', 'Hip-Hop', 'Neo-Soul']"
+5p3NP9mQblDsVJLdfNZJ3I,GOD.,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,DAMN.,album,2017-04-14,248826,True,621354,4750433,[]
+0y9uTzK9cNKSAEHnpeRG8C,DUCKWORTH.,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,DAMN.,album,2017-04-14,248613,True,1062853,14173070,"['Conscious Hip Hop', 'west coast hip hop', 'kendrick lamar', 'rap', 'Neo-Soul']"
+5UQ3JrA9kEh7rfwhUS1h0z,The Fate of Ophelia,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl + Acoustic Collection,album,2025-11-07,226073,False,1109568,27557386,"['pop', 'synthpop', 'best of 2025', 'dance-pop', 'julia mofada']"
+6virCtlwc98cKYVyeZYXqq,Elizabeth Taylor,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl + Acoustic Collection,album,2025-11-07,208291,False,603088,11030241,"['pop', 'baroque pop', 'Who put Katy Perry?', 'taylor swift', 'halsey']"
+0WUwHkIXQY55MLOrw8EM6m,Opalite,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl + Acoustic Collection,album,2025-11-07,235356,False,792387,16202897,"['pop', 'soft rock', 'synthpop', 'rnb', 'dance-pop']"
+6H0nEKqkTRxa30Pru1h7SD,Father Figure,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl + Acoustic Collection,album,2025-11-07,212777,True,530689,11409994,"['soty', 'best of 2025', 'synthpop', 'pop', 'female vocalist']"
+6nhsv9Jeluz5gXt592KN3m,Eldest Daughter,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl + Acoustic Collection,album,2025-11-07,246356,True,477016,6434854,"['pop', '2020s', 'sad', 'experimental', 'show tunes']"
+05VwM318oU6aNc1GS4MtLV,Ruin The Friendship,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl + Acoustic Collection,album,2025-11-07,220564,False,492271,8581075,"['pop', 'country pop', 'peter', 'soft rock', 'folk']"
+6G3dUZrsaOYhe2gRyNukwA,Actually Romantic,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl + Acoustic Collection,album,2025-11-07,163699,True,535795,8717890,"['pop rock', 'power pop', 'best of 2025', 'ended flopli xcx', 'rnb']"
+6udRZQi3g501XNOcRnE9fo,Wi$h Li$t,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl + Acoustic Collection,album,2025-11-07,207349,True,495021,8552513,"['pop', '2025', 'synthpop', 'female vocalist', 'solo']"
+4Ox858TeUXjy7WEKOcxaFI,Wood,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl + Acoustic Collection,album,2025-11-07,150517,True,520627,8640118,"['pop', 'funk', 'sexy', 'Disco', 'soul']"
+67SmofYg9enUWfcPqUuoVm,CANCELLED!,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl + Acoustic Collection,album,2025-11-07,211498,True,485038,8008892,"['pop', 'soty', 'female vocalist', 'rap', 'electropop']"
+7jHzBmxAGVVPvLiq4Y45pD,Honey,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl + Acoustic Collection,album,2025-11-07,181534,True,427010,6992423,"['pop', 'rnb', 'Love', 'soft rock', 'female vocalist']"
+6EqHzZp61G5uQ12QEiibpT,The Life of a Showgirl (feat. Sabrina Carpenter),Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl + Acoustic Collection,album,2025-11-07,241766,True,538936,7438268,"['pop', 'power pop', 'rnb', 'Disco', 'Acid Rock']"
+3lcWDG62OH0cH5GHLdT5X4,The Fate of Ophelia - Alone In My Tower Acoustic Version,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl + Acoustic Collection,album,2025-11-07,225816,False,107590,591316,[]
+4UBWugj5D20ZveyzdGpqvD,Elizabeth Taylor - So Glamorous Cabaret Version,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl + Acoustic Collection,album,2025-11-07,247268,False,83144,456406,[]
+0Ny2HkSrLtvmBVwCQywyip,Opalite - Life Is A Song Acoustic Version,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl + Acoustic Collection,album,2025-11-07,242738,False,86708,372050,[]
+2JHzTARFUispsjZHKhrxxO,Eldest Daughter - Now You’re Home Acoustic Version,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl + Acoustic Collection,album,2025-11-07,244363,True,43760,204928,[]
+6hKfPNnVlA2cgTgKj6Vgcw,Ruin The Friendship - My Advice Version,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl + Acoustic Collection,album,2025-11-07,222087,False,65996,385032,[]
+1qwClaxDb5fCrLjXaAmB35,Wi$h Li$t - Settled Down Acoustic Version,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl + Acoustic Collection,album,2025-11-07,210912,True,82234,660687,[]
+2DF2sUvgHFKJ5TQGjm6n3T,The Life of a Showgirl (feat. Sabrina Carpenter) - Dressing Room Rehearsal Version,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl + Acoustic Collection,album,2025-11-07,239790,True,53054,197710,[]
+53iuhJlwXhSER5J2IYYv1W,The Fate of Ophelia,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl,album,2025-10-03,226073,False,1109568,27557386,"['pop', 'synthpop', 'best of 2025', 'dance-pop', 'julia mofada']"
+1jgTiNob5cVyXeJ3WgX5bL,Elizabeth Taylor,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl,album,2025-10-03,208291,False,603088,11030241,"['pop', 'baroque pop', 'Who put Katy Perry?', 'taylor swift', 'halsey']"
+3yWuTOYDztXjZxdE2cIRUa,Opalite,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl,album,2025-10-03,235355,False,792387,16202897,"['pop', 'soft rock', 'synthpop', 'rnb', 'dance-pop']"
+03bTIHJElXZ0O0jqOQvAbY,Father Figure,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl,album,2025-10-03,212777,True,530689,11409994,"['soty', 'best of 2025', 'synthpop', 'pop', 'female vocalist']"
+62HoDY1Km6lm47haFpUn9c,Eldest Daughter,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl,album,2025-10-03,246356,True,477016,6434854,"['pop', '2020s', 'sad', 'experimental', 'show tunes']"
+62V2ZHslgQV98gH4AuVXnr,Ruin The Friendship,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl,album,2025-10-03,220564,False,492271,8581075,"['pop', 'country pop', 'peter', 'soft rock', 'folk']"
+2x3mwb96B6TquRqMtbxUE1,Actually Romantic,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl,album,2025-10-03,163699,True,535876,8719573,"['pop rock', 'power pop', 'best of 2025', 'ended flopli xcx', 'rnb']"
+2TEQvxxQabwLQMqWMg1qGu,Wi$h Li$t,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl,album,2025-10-03,207349,True,495021,8552513,"['pop', '2025', 'synthpop', 'female vocalist', 'solo']"
+5ylJtmaWPJ33cW3En7WOu0,Wood,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl,album,2025-10-03,150517,True,520627,8640118,"['pop', 'funk', 'sexy', 'Disco', 'soul']"
+1appZ3c336FkPvCuywfmrs,CANCELLED!,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl,album,2025-10-03,211498,True,485038,8008892,"['pop', 'soty', 'female vocalist', 'rap', 'electropop']"
+4qmFC3Jz5aQ0erlk2OSi2X,Honey,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl,album,2025-10-03,181534,True,427010,6992423,"['pop', 'rnb', 'Love', 'soft rock', 'female vocalist']"
+5eXgqtg3T8Av0m1FUaGHex,The Life of a Showgirl (feat. Sabrina Carpenter),Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl,album,2025-10-03,241766,True,538936,7438268,"['pop', 'power pop', 'rnb', 'Disco', 'Acid Rock']"
+0yZPIEgco572UWiwoQtcYF,The Life of a Showgirl Intro,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl (Track by Track Version),album,2025-10-02,4947,False,433,5872,[]
+5k9RjjuYyOMCLL81U8FaHT,The Fate of Ophelia - Track by Track,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl (Track by Track Version),album,2025-10-02,41648,False,44158,68624,[]
+1dosSsKwYF7hoQA2kuu6wI,The Fate of Ophelia,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl (Track by Track Version),album,2025-10-02,226073,False,1109568,27557386,"['pop', 'synthpop', 'best of 2025', 'dance-pop', 'julia mofada']"
+3r9fAceWmaDFvbNiTnFiLr,Elizabeth Taylor - Track by Track,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl (Track by Track Version),album,2025-10-02,35910,False,36230,70884,[]
+1A2vZKJZovt4828jwLgiB3,Elizabeth Taylor,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl (Track by Track Version),album,2025-10-02,208291,False,603088,11030241,"['pop', 'baroque pop', 'Who put Katy Perry?', 'taylor swift', 'halsey']"
+5SkuikJwvwfEvNyCepGkq3,Opalite - Track by Track,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl (Track by Track Version),album,2025-10-02,44594,False,26011,41998,[]
+67osB3wmJVTFzKhWqPb1Hm,Opalite,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl (Track by Track Version),album,2025-10-02,235356,False,792387,16202897,"['pop', 'soft rock', 'synthpop', 'rnb', 'dance-pop']"
+2NGGvVcfb2m2NbVaXHC3gb,Father Figure - Track by Track,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl (Track by Track Version),album,2025-10-02,32838,False,24833,44969,[]
+1lD0oPIfSYid1LhPvgrz10,Father Figure,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl (Track by Track Version),album,2025-10-02,212777,True,530689,11409994,"['soty', 'best of 2025', 'synthpop', 'pop', 'female vocalist']"
+0wAvTNz81YTUhLFWuWJSAV,Eldest Daughter - Track by Track,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl (Track by Track Version),album,2025-10-02,51818,False,22723,37231,[]
+6iC3L3YmAkGucvJbXKDanA,Eldest Daughter,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl (Track by Track Version),album,2025-10-02,246356,True,477016,6434854,"['pop', '2020s', 'sad', 'experimental', 'show tunes']"
+6NUy8xajng5zMSGJRKniAG,Ruin The Friendship - Track by Track,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl (Track by Track Version),album,2025-10-02,40746,False,21966,35533,[]
+34xxPZWbEyg5iDKEBqdsBZ,Ruin The Friendship,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl (Track by Track Version),album,2025-10-02,220564,False,492271,8581075,"['pop', 'country pop', 'peter', 'soft rock', 'folk']"
+6FJemhBlVTGTCgrrrLam3D,Actually Romantic - Track by Track,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl (Track by Track Version),album,2025-10-02,42434,False,25221,39311,[]
+6ZSxG2QvGmwXbTfn7iDq7a,Actually Romantic,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl (Track by Track Version),album,2025-10-02,163699,True,535876,8719573,"['pop rock', 'power pop', 'best of 2025', 'ended flopli xcx', 'rnb']"
+5yrrh7VYFMCNjUOIMzGNp5,Wi$h Li$t - Track by Track,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl (Track by Track Version),album,2025-10-02,38107,False,20455,33774,[]
+3Qeh4z08FfDBRfQMfDv83f,Wi$h Li$t,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl (Track by Track Version),album,2025-10-02,207349,True,495021,8552513,"['pop', '2025', 'synthpop', 'female vocalist', 'solo']"
+20QSU9vg05qYSDVgOTAwPp,Wood - Track by Track,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl (Track by Track Version),album,2025-10-02,30142,False,17220,47056,[]
+0129EujhGkwtwTFADGem5P,Wood,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl (Track by Track Version),album,2025-10-02,150517,True,520627,8640118,"['pop', 'funk', 'sexy', 'Disco', 'soul']"
+6JNM6pLKbXMGG2opeExCb2,CANCELLED! - Track by Track,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl (Track by Track Version),album,2025-10-02,56794,False,20615,32834,[]
+3FzJDGVjRGNc7KrkabU5N0,CANCELLED!,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl (Track by Track Version),album,2025-10-02,211498,True,485038,8008892,"['pop', 'soty', 'female vocalist', 'rap', 'electropop']"
+5EwypOO9NEI7MvjPOYZtWk,Honey - Track by Track,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl (Track by Track Version),album,2025-10-02,42052,False,17091,28184,[]
+3vGd1heFoUuFGvKvl0SdW3,Honey,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl (Track by Track Version),album,2025-10-02,181534,True,427010,6992423,"['pop', 'rnb', 'Love', 'soft rock', 'female vocalist']"
+42TAweWJJ9YlQ47T5nesu5,The Life of a Showgirl - Track by Track,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl (Track by Track Version),album,2025-10-02,72258,False,18597,29594,[]
+243KxZULAjWO3KREpVHgOH,The Life of a Showgirl (feat. Sabrina Carpenter),Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl (Track by Track Version),album,2025-10-02,241766,True,538936,7438268,"['pop', 'power pop', 'rnb', 'Disco', 'Acid Rock']"
+1ohk1U9KWGSKqwfVFQbVjG,The Life of a Showgirl Outro,Taylor Swift,06HL4z0CvFAxyc27GXpf02,The Life of a Showgirl (Track by Track Version),album,2025-10-02,5262,False,259,1496,[]
+6dODwocEuGzHAavXqTbwHv,Fortnight (feat. Post Malone),Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,album,2024-04-19,228965,False,1074959,25536487,"['pop', 'best of 2024', 'soty', 'synthpop', 'singer-songwriter']"
+4PdLaGZubp4lghChqp8erB,The Tortured Poets Department,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,album,2024-04-19,293048,True,638062,14043465,"['pop', 'synthpop', 'best of 2024', 'singer-songwriter', 'Colleen Hoover']"
+7uGYWMwRy24dm7RUDDhUlD,My Boy Only Breaks His Favorite Toys,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,album,2024-04-19,203801,False,660811,19064710,"['pop', 'best of 2024', 'synthpop', 'female vocalists', 'taylor swift']"
+1kbEbBdEgQdQeLXCJh28pJ,Down Bad,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,album,2024-04-19,261228,True,698393,18893914,"['pop', 'synthpop', 'best of 2024', 'love at first listen', 'Colleen Hoover']"
+7wAkQFShJ27V8362MqevQr,"So Long, London",Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,album,2024-04-19,262974,False,667211,18382334,"['pop', 'best of 2024', 'singer-songwriter', 'synthpop', 'Colleen Hoover']"
+4QMgEffJQuKtjCNvqfRZ0m,But Daddy I Love Him,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,album,2024-04-19,340428,True,600210,14533908,"['pop', 'best of 2024', 'pop rock', 'Colleen Hoover', 'soty']"
+7IWcDWOfiooH5hRs9XOVYz,Fresh Out The Slammer,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,album,2024-04-19,210789,False,558676,14733570,"['pop', 'singer-songwriter', 'Colleen Hoover', 'love at first listen', 'best of 2024']"
+5ExOm0dh4NyRyAdSAO9hyM,Florida!!! (feat. Florence + The Machine),Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,album,2024-04-19,215463,True,0,0,[]
+799KrpEbhZp0MHeiA8YK9P,Guilty as Sin?,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,album,2024-04-19,254365,False,693438,24909980,"['pop', 'best of 2024', 'singer-songwriter', 'pop rock', 'Colleen Hoover']"
+2d8UxVNhJinc8uat9PoM9y,Who’s Afraid of Little Old Me?,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,album,2024-04-19,334084,False,620102,15470163,"['pop', 'love at first listen', 'best of 2024', 'pop rock', 'soty']"
+5chnRTB9qMK3W1M41SnU9s,I Can Fix Him (No Really I Can),Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,album,2024-04-19,156297,False,505858,9456063,"['singer-songwriter', 'pop', 'sexy', 'love at first listen', 'soty']"
+3YkNIrAvbKNrrwwEd7NVLl,loml,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,album,2024-04-19,277156,True,608887,17961284,"['pop', 'singer-songwriter', 'sad', 'piano', 'best of 2024']"
+2fPvQfGQEZOKtJ9qXeL4x8,I Can Do It With a Broken Heart,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,album,2024-04-19,218004,True,804409,20407582,"['pop', 'synthpop', 'best of 2024', 'dance-pop', 'soty']"
+1xtw1krCR6Dw2KwkXw5z63,The Smallest Man Who Ever Lived,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,album,2024-04-19,245541,True,549295,15920520,"['pop', 'singer-songwriter', 'best of 2024', 'Colleen Hoover', 'chatgpt']"
+1tuNqJOtRQVHvONR8Lg3MZ,The Alchemy,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,album,2024-04-19,196900,False,529627,12634479,"['chatgpt', 'pop', 'best of 2024', 'singer-songwriter', 'Colleen Hoover']"
+4d9PtIEVij9jW5OaLinH66,Clara Bow,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,album,2024-04-19,216662,False,471323,8986870,"['pop', 'singer-songwriter', 'chatgpt', 'Colleen Hoover', 'best of 2024']"
+62E2nR0od0M5HYxuYLaDz7,The Black Dog,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,album,2024-04-19,238857,True,463242,13011620,"['soty', 'pop', 'best of 2024', 'singer-songwriter', 'love at first listen']"
+1kcwpPDQnqEqmezzXdJTCP,imgonnagetyouback,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,album,2024-04-19,222072,False,497291,14100488,"['pop', 'singer-songwriter', 'female vocalists', 'synthpop', 'Colleen Hoover']"
+4EF6IyONolQy0bIQXm2EmX,The Albatross,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,album,2024-04-19,183878,False,420182,8630639,"['singer-songwriter', 'folk', 'best of 2024', 'pop', 'folk pop']"
+1rmEsOezwf2lmIZTMAO5Ag,Chloe or Sam or Sophia or Marcus,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,album,2024-04-19,213281,False,442539,11298041,"['pop', 'singer-songwriter', 'folk pop', 'folk', 'AI']"
+5Bedn0svl0ZD7RGmJkmKKw,How Did It End?,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,album,2024-04-19,238706,False,450750,12319762,"['folk', 'Ballad', 'piano', 'singer-songwriter', 'pop']"
+7Mts0OfPorF4iwOomvfqn1,So High School,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,album,2024-04-19,228800,False,616968,17005956,"['pop', 'rock', 'pop rock', 'singer-songwriter', 'Colleen Hoover']"
+3hlGuz3loYoLfI3bpwieWq,I Hate It Here,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,album,2024-04-19,243875,False,443899,10556616,"['folk', 'pop', 'singer-songwriter', 'poetic', 'poetry']"
+7ogK4lJDVDMU6A6vYR5rvD,thanK you aIMee,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,album,2024-04-19,263817,True,402981,6076551,[]
+1Zai5UJ2di3qEuR2HeT2s8,I Look in People's Windows,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,album,2024-04-19,131907,False,397653,8684302,"['pop', 'folk', 'AI', 'singer-songwriter', 'not poetry']"
+18WFFUIsewmA8g31KAeo3e,The Prophecy,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,album,2024-04-19,249807,False,500949,13426183,"['singer-songwriter', 'folk', 'pop', 'AI', 'not poetic']"
+0g4fMVo4JjwnIpTfFfLdxS,Cassandra,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,album,2024-04-19,240205,True,384149,6848209,"['pop', 'folk', 'singer-songwriter', 'female vocalists', 'AI']"
+3zMDGj4D8ogaYgAIZPeU7S,Peter,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,album,2024-04-19,283957,False,417117,10320618,"['Ballad', 'folk', 'traitor', 'pop', 'peter pan']"
+2913xXOVAIDAqxzV2g4VcU,The Bolter,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,album,2024-04-19,238241,True,400806,10160149,"['pop', 'best of 2024', 'country', 'folk', 'singer-songwriter']"
+2CnjDMdpRjlWv04Xk3s6MW,Robin,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,album,2024-04-19,240893,False,347689,5218587,[]
+1DTRUYVd8rYpla9hhVVwjo,The Manuscript,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,album,2024-04-19,224743,False,357298,6116022,"['chatgpt', 'pop', 'singer-songwriter', 'Ballad', 'best of 2024']"
+2OzhQlSqBEmt7hmkYxfT6m,Fortnight (feat. Post Malone),Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT,album,2024-04-18,228965,False,1074959,25536487,"['pop', 'best of 2024', 'soty', 'synthpop', 'singer-songwriter']"
+3NMrVbIVWT3fPXBj0rNDKG,The Tortured Poets Department,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT,album,2024-04-18,293048,True,638116,14044952,"['pop', 'synthpop', 'best of 2024', 'singer-songwriter', 'Colleen Hoover']"
+2XXwLdtuAcE0HSCu61ijAb,My Boy Only Breaks His Favorite Toys,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT,album,2024-04-18,203801,False,660811,19064710,"['pop', 'best of 2024', 'synthpop', 'female vocalists', 'taylor swift']"
+2F3N9tdombb64aW6VtZOdo,Down Bad,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT,album,2024-04-18,261228,True,698393,18893914,"['pop', 'synthpop', 'best of 2024', 'love at first listen', 'Colleen Hoover']"
+3Vevii7qKqrmW8CcyzBHDl,"So Long, London",Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT,album,2024-04-18,262974,False,667211,18382334,"['pop', 'best of 2024', 'singer-songwriter', 'synthpop', 'Colleen Hoover']"
+5og4Qzt92jJzVDkOtSEilb,But Daddy I Love Him,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT,album,2024-04-18,340428,True,600210,14533908,"['pop', 'best of 2024', 'pop rock', 'Colleen Hoover', 'soty']"
+3fO566xJgwxIa3qGCGBvIC,Fresh Out The Slammer,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT,album,2024-04-18,210789,False,558676,14733570,"['pop', 'singer-songwriter', 'Colleen Hoover', 'love at first listen', 'best of 2024']"
+3ZVFcD8Wlw9T9klGqmJf9F,Florida!!! (feat. Florence + The Machine),Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT,album,2024-04-18,215463,True,0,0,[]
+0W0iAC1VGlB82PI6elxFYf,Guilty as Sin?,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT,album,2024-04-18,254365,False,693438,24909980,"['pop', 'best of 2024', 'singer-songwriter', 'pop rock', 'Colleen Hoover']"
+36t6frENUtCYKuZus6aYDO,Who’s Afraid of Little Old Me?,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT,album,2024-04-18,334084,False,620102,15470163,"['pop', 'love at first listen', 'best of 2024', 'pop rock', 'soty']"
+2h3MDMf8sd9s4XIzpTBIjX,I Can Fix Him (No Really I Can),Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT,album,2024-04-18,156297,False,505858,9456063,"['singer-songwriter', 'pop', 'sexy', 'love at first listen', 'soty']"
+6RSG1dKPV5gEvILwJb4QtS,loml,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT,album,2024-04-18,277156,True,608887,17961284,"['pop', 'singer-songwriter', 'sad', 'piano', 'best of 2024']"
+4q5YezDOIPcoLr8R81x9qy,I Can Do It With a Broken Heart,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT,album,2024-04-18,218004,True,804318,20405880,"['pop', 'synthpop', 'best of 2024', 'dance-pop', 'soty']"
+2v1ivOOsgn64g5OywuH55L,The Smallest Man Who Ever Lived,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT,album,2024-04-18,245541,True,549238,15919158,"['pop', 'singer-songwriter', 'best of 2024', 'Colleen Hoover', 'chatgpt']"
+1dhMTsEZz6ZEquGvmzVoHn,The Alchemy,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT,album,2024-04-18,196900,False,529627,12634479,"['chatgpt', 'pop', 'best of 2024', 'singer-songwriter', 'Colleen Hoover']"
+1UlhrRvYzbHEyugEDspXUB,Clara Bow,Taylor Swift,06HL4z0CvFAxyc27GXpf02,THE TORTURED POETS DEPARTMENT,album,2024-04-18,216662,False,471323,8986870,"['pop', 'singer-songwriter', 'chatgpt', 'Colleen Hoover', 'best of 2024']"
+5673WA8EEUSPx1ir26lhGW,Wake Me Up (feat. Justice),The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Hurry Up Tomorrow,album,2025-01-31,308575,False,351088,3555406,"['synthpop', 'Progressive Electronic', 'synth funk', 'pop', 'darkwave']"
+3AWDeHLc88XogCaCnZQLVI,Cry For Me,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Hurry Up Tomorrow,album,2025-01-31,224136,True,683028,8644589,"['2025', 'funk brasileiro', 'pop', 'synthpop', 'funk mandelao']"
+64JIAZ0bS7WoARYfWQGCoz,I Can't Fucking Sing,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Hurry Up Tomorrow,album,2025-01-31,12288,True,9689,79953,[]
+7DY756WOLyOz2Xnhw4EFiC,São Paulo (feat. Anitta),The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Hurry Up Tomorrow,album,2025-01-31,301623,True,848281,13956196,"['funk', 'brazilian funk', 'funk mandelao', 'phonk', 'funk automotivo']"
+6jDGDtQPC46pFqxph3qdbD,Until We're Skin & Bones,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Hurry Up Tomorrow,album,2025-01-31,22033,False,12539,96401,[]
+5rzI6Jnlhx8DgVgsOLorfW,Baptized In Fear,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Hurry Up Tomorrow,album,2025-01-31,232176,False,445021,5413924,"['synthpop', 'darkwave', 'alt-pop', 'alternative rnb', 'rnb']"
+0sTBOp1hdayTjw6UOyPyi6,Open Hearts,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Hurry Up Tomorrow,album,2025-01-31,234923,False,443319,5260039,"['synthpop', 'Hi-NRG', 'french electro', 'synthwave', 'dance-pop']"
+4Msr8L0gHGDsLSBlk7pSPU,Opening Night,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Hurry Up Tomorrow,album,2025-01-31,96024,False,329388,3090158,[]
+2gyHr9WqZeMtzJOpWGuGo6,"Reflections Laughing (feat. Travis Scott, Florence + The Machine)",The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Hurry Up Tomorrow,album,2025-01-31,291192,True,0,0,[]
+637oNhilCI9UlkWkUW4Grt,Enjoy The Show (feat. Future),The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Hurry Up Tomorrow,album,2025-01-31,301428,True,266715,2538584,[]
+0FolPJnYMo71Z7qasTuoJT,Given Up On Me,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Hurry Up Tomorrow,album,2025-01-31,354781,False,317937,2805151,"['wave', 'lounge', 'alternative rnb', 'cloud rap', 'Trap Soul']"
+0bcZ7xN9IcjSNxLerzR2yl,I Can't Wait To Get There,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Hurry Up Tomorrow,album,2025-01-31,188921,True,325700,2884491,[]
+0FIDCNYYjNvPVimz5icugS,Timeless (feat Playboi Carti),The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Hurry Up Tomorrow,album,2025-01-31,256000,True,1178934,15850571,"['trap', 'pop rap', 'cloud rap', 'plugg', 'alternative rnb']"
+2v0AG62ZHtD3I4YmTb3WYM,Niagara Falls,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Hurry Up Tomorrow,album,2025-01-31,277274,True,357306,3937794,"['rnb', 'Progressive Electronic', 'chipmunk soul', 'alternative rnb', 'amazing']"
+7rVmzyFA7f4rNGl9onF21E,Take Me Back To LA,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Hurry Up Tomorrow,album,2025-01-31,253734,False,294083,3488257,"['synthpop', 'new romantic', 'alternative rnb', 'synthwave', 'The Weeknd']"
+4sWQbsLLH2NEbO79DSZCL9,Big Sleep (feat. Giorgio Moroder),The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Hurry Up Tomorrow,album,2025-01-31,225312,False,188785,1599937,[]
+0K3w6WNawZlv6Izmsrye8o,Give Me Mercy,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Hurry Up Tomorrow,album,2025-01-31,216431,False,257231,1998400,[]
+6i5fDaCzwxRrZtuvvcqoIf,Drive,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Hurry Up Tomorrow,album,2025-01-31,188645,False,252507,2094459,[]
+5ZDKPFRZC6QlJpf8bCIXTs,The Abyss (feat. Lana Del Rey),The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Hurry Up Tomorrow,album,2025-01-31,282873,False,398389,4633255,"['alt-pop', 'Progressive Electronic', 'neoclassical darkwave', 'alternative rnb', 'rnb']"
+717s9KFmHhyy5t3xkStS56,Red Terror,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Hurry Up Tomorrow,album,2025-01-31,231860,False,235202,1740621,[]
+6n6GfXu4i22rdsmRKe2eIn,Without a Warning,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Hurry Up Tomorrow,album,2025-01-31,297525,False,245253,2308627,"['trap', 'alternative rnb', 'synthwave', 'The Weeknd', 'rnb']"
+4TDPlp7OSOjuDU3l7PCM04,Hurry Up Tomorrow,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Hurry Up Tomorrow,album,2025-01-31,291486,False,225603,1794634,[]
+76yLBykniz0SSNv0jj17M2,Starboy (feat. Daft Punk),The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Starboy (Deluxe),album,2023-03-14,230461,True,227195,1879411,[]
+6fSvz9yrQY407xmr7cdjuA,Party Monster,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Starboy (Deluxe),album,2023-03-14,249207,True,1087874,14278244,"['Lana Del Rey', 'rnb', 'trap', 'Canadian', 'The Weeknd']"
+4k47x4UkxG215nFLMFna8A,False Alarm,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Starboy (Deluxe),album,2023-03-14,220308,False,631933,5994308,[]
+4zHa39io9pjsiAE6LwM2NH,Reminder,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Starboy (Deluxe),album,2023-03-14,218879,True,1170992,17155955,"['rnb', 'Canadian', 'Hip-Hop', 'rap', 'canada']"
+3mynPhglTz2Ggh8SxA34kR,Rockin’,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Starboy (Deluxe),album,2023-03-14,232881,True,500203,4286005,[]
+36K5mnqwfxGS0rvxz7FPyq,Secrets,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Starboy (Deluxe),album,2023-03-14,265607,False,619734,6628690,"['synthpop', 'dance', 'amazing', 'rnb', 'male vocalist']"
+2QRvliBEcGIEgTrjVfxmXo,True Colors,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Starboy (Deluxe),album,2023-03-14,206034,False,537268,4540845,[]
+3CktmDvZGj21m3pNFj5Lr3,Stargirl Interlude (feat. Lana Del Rey),The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Starboy (Deluxe),album,2023-03-14,111611,False,142503,1193801,[]
+3r5lHFACTti0w2REN5tcrn,Sidewalks (feat. Kendrick Lamar),The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Starboy (Deluxe),album,2023-03-14,231357,True,93901,560378,[]
+4QYEtbfsqusrXN5A49LG53,Six Feet Under,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Starboy (Deluxe),album,2023-03-14,237576,True,514712,4670971,[]
+5ejT19NfiINj4cFmjRHwAC,Love To Lay,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Starboy (Deluxe),album,2023-03-14,223301,False,402330,3375098,[]
+5HFQB9ENLGBHTci7xPmLk6,A Lonely Night,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Starboy (Deluxe),album,2023-03-14,220170,False,553482,5855400,"['funk', 'dance', 'rnb', 'pop', 'The Weeknd']"
+2DsrtZoRxeHdCSGRlQVQtj,Attention,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Starboy (Deluxe),album,2023-03-14,197649,True,424269,2928529,[]
+09mBPwUMt1TXNtneqvmZZ5,Ordinary Life,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Starboy (Deluxe),album,2023-03-14,221913,False,483745,4409963,"['electropop', 'trap', 'alternative rnb', 'Canadian', 'r&b']"
+3iPmwJh56xbDF7Xduimf0d,Nothing Without You,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Starboy (Deluxe),album,2023-03-14,198654,False,423132,3287298,[]
+3Xz0rSC29WbaobyJQfeYsp,All I Know (feat. Future),The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Starboy (Deluxe),album,2023-03-14,321031,True,65482,326820,[]
+0awWj9Wzj375IL5etqa1Dk,Die For You,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Starboy (Deluxe),album,2023-03-14,260255,False,2071459,35346749,"['rnb', 'pop', 'synthpop', 'Ballad', 'Canadian']"
+0yi180gAOIJhcRo7wY4Htl,I Feel It Coming (feat. Daft Punk),The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Starboy (Deluxe),album,2023-03-14,269176,False,149536,1147301,[]
+4W4fNrZYkobj539TOWsLO2,Die For You (with Ariana Grande) - Remix,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Starboy (Deluxe),album,2023-03-14,232857,False,863901,6455724,"['Ariana Grande', 'sexy', 'remix', 'Ballad', 's2']"
+3DCc4HPrVukBeaDGe3Cosk,Starboy (feat. Daft Punk) - Kygo Remix,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Starboy (Deluxe),album,2023-03-14,244720,True,39261,112718,[]
+2rlEZYWZFE84YTbrwypBr0,Reminder (feat. A$AP Rocky & Young Thug) - Remix,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Starboy (Deluxe),album,2023-03-14,221968,True,68671,301440,[]
+7HX1VOiPj1oMlgZ3OQ92B6,Intro - Live,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,album,2023-03-03,95813,False,49182,223829,[]
+2evYKtXNAdn60ANNEdjH7V,Alone Again - Live,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,album,2023-03-03,167253,True,53820,286027,[]
+2h3ZotklPN6aD7OuHz7bFZ,Gasoline - Live,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,album,2023-03-03,195635,False,49335,270263,[]
+7skxtd9x0d05fjz4D7w3t2,Sacrifice - Live,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,album,2023-03-03,263240,True,49246,287444,[]
+72SxWvaYsDgix2N3sjCjT1,How Do I Make You Love Me? - Live,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,album,2023-03-03,209040,False,45044,243133,[]
+47vfGRaXEGzcM2vI7JC2OO,Can't Feel My Face - Live,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,album,2023-03-03,183888,False,46020,226328,[]
+02YlAvsmptN8LisZqrWBIb,Take My Breath - Live,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,album,2023-03-03,235966,False,44807,244154,[]
+45ypYpAdgoneWcBT0Wba3p,Hurricane - Live,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,album,2023-03-03,127527,False,51752,325270,[]
+6N8W7Dbcsg9tRDxn0wjFkR,The Hills - Live,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,album,2023-03-03,185361,True,53349,340744,[]
+3kdEGx81MR9ftxRbF3Zf84,Often - Live,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,album,2023-03-03,148878,True,50945,424719,[]
+03H6iCycyxfB2mZzIOEeKJ,Crew Love - Live,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,album,2023-03-03,113460,True,46390,311571,[]
+4ZYGm4xWPhsZVijqtpWn4C,Starboy - Live,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,album,2023-03-03,245818,True,47828,304077,[]
+0WrIAsGJOei2FGeakvpTDU,Heartless - Live,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,album,2023-03-03,124255,True,45445,285195,[]
+431r2Qg4I2qFIKdSFCJN4s,Low Life - Live,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,album,2023-03-03,107256,True,42690,296763,[]
+6tB01QHgH9YuVA8TomAzni,Or Nah - Live,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,album,2023-03-03,101450,True,42048,273646,[]
+2YI8oiiImLkZvVgP33xrjD,Kiss Land - Live,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,album,2023-03-03,110315,True,40679,236552,[]
+6knNhL3mIaackJvtjmUrfN,Party Monster - Live,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,album,2023-03-03,189883,True,43055,302349,[]
+5RlqhZfTao31aQUO2QjpkG,Faith - Live,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,album,2023-03-03,185016,True,38395,256976,[]
+7HK0ZDEsW0lGKKIVYvni2z,After Hours - Live,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,album,2023-03-03,267912,False,46903,395249,[]
+6XZ8C5etRn0kiS1wwuW0SO,Out of Time - Live,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,album,2023-03-03,200934,False,40220,255610,[]
+3RSmW13mK3HbkeuHSA4o4E,I Feel It Coming - Live,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,album,2023-03-03,234114,False,37459,202542,[]
+4oGnKXq6cIXoE7gfEbh5Ax,Die For You - Live,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,album,2023-03-03,193394,True,41980,250246,[]
+1um00PH48BzDbULgyQyRUA,Is There Someone Else? - Live,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,album,2023-03-03,237904,False,53499,268849,[]
+1occCbgg7oAWF7lMCEAk2T,I Was Never There - Live,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,album,2023-03-03,137149,False,41846,289709,[]
+0naqCl6Bckx9qO6gtyoXLm,Wicked Games - Live,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,album,2023-03-03,143082,True,38912,252257,[]
+10OyIs6KCOmDO19J5wWFPx,Call Out My Name - Live,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,album,2023-03-03,242899,False,58009,559923,[]
+3Tz5B0wTyLdz4jE8LgYA3J,The Morning - Live,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,album,2023-03-03,199802,True,35131,199421,[]
+52RgkUwQNKjh3iHhxV3rfZ,Save Your Tears - Live,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,album,2023-03-03,178187,True,38128,207607,[]
+0ijIG2j6oRSMDk5Zp91xXt,Less Than Zero - Live,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,album,2023-03-03,244479,True,36534,213976,[]
+5OGxg1400HmCYVRHuccZWw,Blinding Lights - Live,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,album,2023-03-03,253365,True,38034,218201,[]
+73H5bn2SKYkMHBPvWGZDcu,Outro - Live,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Live At SoFi Stadium,album,2023-03-03,199781,True,25905,87108,[]
+3gj1hwjku4JaoamjJVqIIl,Dawn FM,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM (Alternate World),album,2022-01-07,96240,False,513281,3992798,[]
+6Uj2XaahtYXK2WeD7GGwBY,Gasoline,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM (Alternate World),album,2022-01-07,212165,False,649331,8573488,"['rnb', 'synthpop', 'synthwave', 'electronic', 'electro']"
+3kOtREqmcGaEA2KhqffFnw,How Do I Make You Love Me?,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM (Alternate World),album,2022-01-07,214214,False,622482,7967037,"['synthpop', 'synthwave', 'rnb', 'electronic', 'dance']"
+3WXyY2PxX88kpBtB0GH61w,Take My Breath,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM (Alternate World),album,2022-01-07,339023,False,879579,11248315,"['synthpop', 'pop', 'nu-disco', 'synthwave', 'The Weeknd']"
+0xa4hvXeYHRRNhA7wBfUar,Sacrifice,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM (Alternate World),album,2022-01-07,188918,True,854609,11327074,"['The Weeknd', 'rnb', 'synthpop', 'pop', 'Disco']"
+23iLEDPEJpcfYOw1tVhd2o,A Tale By Quincy,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM (Alternate World),album,2022-01-07,96214,True,408748,2829666,[]
+25C86uEjQ0fjj3bvsxIusO,Out of Time,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM (Alternate World),album,2022-01-07,214190,False,1035936,17059733,"['city pop', 'rnb', 'pop', 'Sophisti-Pop', 'vaporwave']"
+0khQeEwEv6GndVypzpGOG5,"Here We Go… Again (feat. Tyler, the Creator)",The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM (Alternate World),album,2022-01-07,209777,True,585442,5959524,[]
+4cm7Ap6IWH6m8JyB9IXT3x,Best Friends,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM (Alternate World),album,2022-01-07,163504,False,529303,5905967,[]
+37zcCimcUGurQoLEAuN8nR,Is There Someone Else?,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM (Alternate World),album,2022-01-07,199111,False,1273342,21959271,"['synthpop', 'rnb', 'pop', 'electronic', 'chillwave']"
+2022B8GxEstpvibwgbJ15s,Starry Eyes,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM (Alternate World),album,2022-01-07,148000,False,495973,4924083,[]
+7q9Sr5kCkha0L49GAQctHl,Every Angel is Terrifying,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM (Alternate World),album,2022-01-07,167255,False,363043,2226530,[]
+3TVnaEVbUBFmWYk9IOIwRo,Don’t Break My Heart,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM (Alternate World),album,2022-01-07,205469,False,423305,4348253,[]
+7p2wRa4m9KVXEXUlkJLhUi,I Heard You're Married (feat. Lil Wayne),The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM (Alternate World),album,2022-01-07,263641,True,44914,183048,[]
+02w1rM6spvEcbFxd63xCl2,Less Than Zero,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM (Alternate World),album,2022-01-07,211814,False,770436,13123453,"['rnb', 'synthpop', 'synthwave', 'synth-pop', 'The Weeknd']"
+0DvtQkuaV0VrSHgb5pwRke,Phantom Regret by Jim,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM (Alternate World),album,2022-01-07,179580,False,321012,2066015,[]
+1S9DHKpS73KFVN7nnIql3f,Moth To A Flame (with The Weeknd),The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM (Alternate World),album,2022-01-07,234000,False,1122,5886,[]
+1Jz0fAhw41suiAVekjAoLi,Dawn FM - OPN Remix,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM (Alternate World),album,2022-01-07,183827,False,61954,174613,[]
+2urqWNGpjl07PLAafoa5nT,How Do I Make You Love Me? - Sebastian Ingrosso & Salvatore Ganacci Remix,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM (Alternate World),album,2022-01-07,217766,False,59043,203475,[]
+0QE33jkiMTzCI8momkDmQY,Sacrifice (Remix) (feat. Swedish House Mafia),The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM (Alternate World),album,2022-01-07,238032,True,92309,587868,[]
+6yuRNAxPh712eIib8UPI6U,Out of Time - KAYTRANADA Remix,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM (Alternate World),album,2022-01-07,275555,False,114834,451187,[]
+6I5gj0D4OEScl48BPFR0J1,Best Friends - Remix,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM (Alternate World),album,2022-01-07,175071,False,127028,816632,[]
+5T0ZsRG7hVgXeffepN8Kmk,Starry Eyes - MIKE DEAN Remix,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM (Alternate World),album,2022-01-07,198222,False,63623,258772,[]
+3nUHfbfj1cpnn8ZjS4tNDW,Take My Breath - Single Version,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM (Alternate World),album,2022-01-07,220196,False,304186,2200560,[]
+6krYS8KtmNAYyb5uTZiYW4,Dawn FM,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM,album,2022-01-06,96240,False,513281,3992798,[]
+3KyKxJ4P3pVCgaZwaq2rUC,Gasoline,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM,album,2022-01-06,212165,False,649331,8573488,"['rnb', 'synthpop', 'synthwave', 'electronic', 'electro']"
+2Ghp894n1laIf2w98VeAOJ,How Do I Make You Love Me?,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM,album,2022-01-06,214214,False,622482,7967037,"['synthpop', 'synthwave', 'rnb', 'electronic', 'dance']"
+2vgUijXOTRMnWXDtvgMp2b,Take My Breath,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM,album,2022-01-06,339023,False,879579,11248315,"['synthpop', 'pop', 'nu-disco', 'synthwave', 'The Weeknd']"
+1nH2PkJL1XoUq8oE6tBZoU,Sacrifice,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM,album,2022-01-06,188918,True,854609,11327074,"['The Weeknd', 'rnb', 'synthpop', 'pop', 'Disco']"
+759ndr57jb0URg4j9YSWml,A Tale By Quincy,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM,album,2022-01-06,96232,True,408748,2829666,[]
+2SLwbpExuoBDZBpjfefCtV,Out of Time,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM,album,2022-01-06,214193,False,1035936,17059733,"['city pop', 'rnb', 'pop', 'Sophisti-Pop', 'vaporwave']"
+1NhjYYcYTRywc0di98xHxf,"Here We Go… Again (feat. Tyler, the Creator)",The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM,album,2022-01-06,209777,True,585442,5959524,[]
+1E5Xu8dur0fAjSP1VpVhAZ,Best Friends,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM,album,2022-01-06,163504,False,529303,5905967,[]
+0mL82sxCRjrs3br407IdJh,Is There Someone Else?,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM,album,2022-01-06,199111,False,1273097,21956570,"['synthpop', 'rnb', 'pop', 'electronic', 'chillwave']"
+6zzdyvVWjGrQBraSvuqJPY,Starry Eyes,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM,album,2022-01-06,148000,False,495973,4924083,[]
+3vJcz8exedHCjQ9ed95NqU,Every Angel is Terrifying,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM,album,2022-01-06,167255,False,363043,2226530,[]
+6a4GH1gljLL7VvmO9u5O92,Don’t Break My Heart,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM,album,2022-01-06,205469,False,423305,4348253,[]
+5XbA7TAqsD0fj0dGBrbb0D,I Heard You’re Married (feat. Lil Wayne),The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM,album,2022-01-06,263641,True,424193,3856901,[]
+2D4dV2KXDTszzJ3p3cFqhA,Less Than Zero,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM,album,2022-01-06,211814,False,770436,13123453,"['rnb', 'synthpop', 'synthwave', 'synth-pop', 'The Weeknd']"
+1NlK2NtpuUazpziLhnJwEV,Phantom Regret by Jim,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,Dawn FM,album,2022-01-06,179580,False,321012,2066015,[]
+5TFD2bmFKGhoCRbX61nXY5,NUEVAYoL,Bad Bunny,4q3ewBCX7sLwd24euuV69X,DeBÍ TiRAR MáS FOToS,album,2025-01-05,183685,False,1103912,14717872,"['dembow', 'Reggaeton', 'latin', 'instrumental', 'loud']"
+59D4DOkspUbWyMmbAPQkxZ,VOY A LLeVARTE PA PR,Bad Bunny,4q3ewBCX7sLwd24euuV69X,DeBÍ TiRAR MáS FOToS,album,2025-01-05,156364,True,802017,10593764,"['Reggaeton', 'groovy', 'instrumental', 'loud', 'Moderate']"
+2lTm559tuIvatlT1u0JYG2,BAILE INoLVIDABLE,Bad Bunny,4q3ewBCX7sLwd24euuV69X,DeBÍ TiRAR MáS FOToS,album,2025-01-05,367725,True,1015045,15147061,"['salsa', 'instrumental', 'loud', 'Reggaeton', 'spoken']"
+1Q9Efnm5csdCMFynISxL2x,PERFuMITO NUEVO,Bad Bunny,4q3ewBCX7sLwd24euuV69X,DeBÍ TiRAR MáS FOToS,album,2025-01-05,200680,True,513850,4847073,"['latin', 'spanish', 'latin pop', 'Reggaeton', 'king of pop']"
+5WEF0icHWmAZBBMglBd599,WELTiTA,Bad Bunny,4q3ewBCX7sLwd24euuV69X,DeBÍ TiRAR MáS FOToS,album,2025-01-05,187507,False,556162,5378971,"['latin pop', 'Bossa Nova', 'rey del pop', 'king of pop']"
+7d6yK8v8J484SWH5prIQiE,VeLDÁ,Bad Bunny,4q3ewBCX7sLwd24euuV69X,DeBÍ TiRAR MáS FOToS,album,2025-01-05,235336,True,600522,7703999,"['Reggaeton', 'latin', 'sweet', 'party', 'ma']"
+0iKo4pNNjHHdKUcFARlfCa,EL CLúB,Bad Bunny,4q3ewBCX7sLwd24euuV69X,DeBÍ TiRAR MáS FOToS,album,2025-01-05,222568,True,507433,5049993,"['loud', 'spoken', 'instrumental', 'latin', 'danceable']"
+4c2Pc0NrfkesPR0jff6q3F,KETU TeCRÉ,Bad Bunny,4q3ewBCX7sLwd24euuV69X,DeBÍ TiRAR MáS FOToS,album,2025-01-05,250789,True,438535,3995043,"['loud', 'instrumental', 'spoken', 'upbeat', 'Reggaeton']"
+79x7xtoCLpf6l32Zz6mWo4,BOKeTE,Bad Bunny,4q3ewBCX7sLwd24euuV69X,DeBÍ TiRAR MáS FOToS,album,2025-01-05,215983,True,433068,3852923,"['instrumental', 'groovy', 'loud', 'Reggaeton', 'king of pop']"
+4MUrUT38U98olfnyzMBCzm,KLOuFRENS,Bad Bunny,4q3ewBCX7sLwd24euuV69X,DeBÍ TiRAR MáS FOToS,album,2025-01-05,199114,True,523704,5845139,"['Reggaeton', 'latin pop', 'rey del pop', 'king of pop']"
+7tCuCjhxzjX2XCz4JiiAsp,TURiSTA,Bad Bunny,4q3ewBCX7sLwd24euuV69X,DeBÍ TiRAR MáS FOToS,album,2025-01-05,190028,False,435656,3969682,"['Folk Trap', 'latin', 'king of pop', 'Reggaeton', 'puerto rico']"
+6VNXmo59yDYgcwLS17UNAW,CAFé CON RON,Bad Bunny,4q3ewBCX7sLwd24euuV69X,DeBÍ TiRAR MáS FOToS,album,2025-01-05,228836,False,466745,3818617,"['tambor', 'plena']"
+14QaXYIK3K3QPtezqxRRPN,PIToRRO DE COCO,Bad Bunny,4q3ewBCX7sLwd24euuV69X,DeBÍ TiRAR MáS FOToS,album,2025-01-05,206627,False,418291,3467975,"['danceable', 'loud', 'latin', 'instrumental', 'melodic']"
+1Hg0e997pObvZ91w1FCPFk,LO QUE LE PASÓ A HAWAii,Bad Bunny,4q3ewBCX7sLwd24euuV69X,DeBÍ TiRAR MáS FOToS,album,2025-01-05,229381,False,413371,3139437,"['jibaro', 'latin', 'Reggaeton', 'art pop', 'king of pop']"
+6J5kc12BW5HuP3d7C3vvx8,EoO,Bad Bunny,4q3ewBCX7sLwd24euuV69X,DeBÍ TiRAR MáS FOToS,album,2025-01-05,204768,True,863414,11608720,"['Reggaeton', 'Perreo', 'Ayo', 'tratra', 'latin']"
+3sK8wGT43QFpWrvNQsrQya,DtMF,Bad Bunny,4q3ewBCX7sLwd24euuV69X,DeBÍ TiRAR MáS FOToS,album,2025-01-05,237117,True,1388232,18767777,"['latin', 'melodic', 'plena', 'vocal', 'Moderate']"
+3G7agPwWfcORnWCAGMDOpm,LA MuDANZA,Bad Bunny,4q3ewBCX7sLwd24euuV69X,DeBÍ TiRAR MáS FOToS,album,2025-01-05,213010,True,474846,3923873,"['danceable', 'instrumental', 'soft', 'Reggaeton', 'salsa']"
+23d8v6tU6lR77pFKsApMtF,NADIE SABE,Bad Bunny,4q3ewBCX7sLwd24euuV69X,nadie sabe lo que va a pasar mañana,album,2023-10-13,379058,True,172295,1311476,[]
+4MjDJD8cW7iVeWInc2Bdyj,MONACO,Bad Bunny,4q3ewBCX7sLwd24euuV69X,nadie sabe lo que va a pasar mañana,album,2023-10-13,267194,True,560551,6028054,"['trap latino', 'trap', 'latin', 'rap', 'classical crossover']"
+3nNmRE0DxHC6ZaKkrpUumS,FINA,Bad Bunny,4q3ewBCX7sLwd24euuV69X,nadie sabe lo que va a pasar mañana,album,2023-10-13,216327,True,262717,2711531,[]
+4qSEvFGCpde73gqIuq3sho,HIBIKI,Bad Bunny,4q3ewBCX7sLwd24euuV69X,nadie sabe lo que va a pasar mañana,album,2023-10-13,208000,True,194199,1884400,[]
+1ODFVLQszq0hCOdZtqV5wq,MR. OCTOBER,Bad Bunny,4q3ewBCX7sLwd24euuV69X,nadie sabe lo que va a pasar mañana,album,2023-10-13,189258,True,177197,1452831,[]
+4Jc7252S1P99DjQ1lNGEOc,CYBERTRUCK,Bad Bunny,4q3ewBCX7sLwd24euuV69X,nadie sabe lo que va a pasar mañana,album,2023-10-13,191959,True,191705,1690819,[]
+0rDQZJtSGgsB2rdkObpdFa,VOU 787,Bad Bunny,4q3ewBCX7sLwd24euuV69X,nadie sabe lo que va a pasar mañana,album,2023-10-13,123643,True,146582,1301589,[]
+1YnChEM51BVZ5dRhbVFEMl,SEDA,Bad Bunny,4q3ewBCX7sLwd24euuV69X,nadie sabe lo que va a pasar mañana,album,2023-10-13,190476,True,145242,1290578,[]
+1U3A66OHQyTu4N2QTMsP86,GRACIAS POR NADA,Bad Bunny,4q3ewBCX7sLwd24euuV69X,nadie sabe lo que va a pasar mañana,album,2023-10-13,177450,True,128075,896425,[]
+01ppKlDRCmPpusO3yNrSRY,TELEFONO NUEVO,Bad Bunny,4q3ewBCX7sLwd24euuV69X,nadie sabe lo que va a pasar mañana,album,2023-10-13,354784,True,130384,1345593,[]
+3NhstUmrlhaN1M6hP8zMbb,BABY NUEVA,Bad Bunny,4q3ewBCX7sLwd24euuV69X,nadie sabe lo que va a pasar mañana,album,2023-10-13,240773,True,167472,1439727,[]
+3TYOH7ta0101NYssoH5GlU,MERCEDES CAROTA,Bad Bunny,4q3ewBCX7sLwd24euuV69X,nadie sabe lo que va a pasar mañana,album,2023-10-13,202635,True,128332,1388955,[]
+7ucEkWU0SVy0XFdfXESgfY,LOS PITS,Bad Bunny,4q3ewBCX7sLwd24euuV69X,nadie sabe lo que va a pasar mañana,album,2023-10-13,250851,True,120236,1195913,[]
+3mRF0YNsDdFKFnxwg16hSz,VUELVE CANDY B,Bad Bunny,4q3ewBCX7sLwd24euuV69X,nadie sabe lo que va a pasar mañana,album,2023-10-13,266171,True,114069,1145084,[]
+5qzLdvRViHUrRNdkpakG7C,BATICANO,Bad Bunny,4q3ewBCX7sLwd24euuV69X,nadie sabe lo que va a pasar mañana,album,2023-10-13,256000,True,115871,1108863,[]
+39L3LdlHS3gqB62HPWaJRg,NO ME QUIERO CASAR,Bad Bunny,4q3ewBCX7sLwd24euuV69X,nadie sabe lo que va a pasar mañana,album,2023-10-13,225654,True,222655,2671453,"['Hip-Hop', 'latin', '2023', 'rap', '2020s']"
+2sTDlCxmuZCTDKKk9f1qus,WHERE SHE GOES,Bad Bunny,4q3ewBCX7sLwd24euuV69X,nadie sabe lo que va a pasar mañana,album,2023-10-13,231704,True,435369,5682621,"['philly club', 'latin', 'chillwave', 'jersey club', 'latin pop']"
+4pcafPzLDSqQktqSpxHL3E,THUNDER Y LIGHTNING,Bad Bunny,4q3ewBCX7sLwd24euuV69X,nadie sabe lo que va a pasar mañana,album,2023-10-13,217133,True,116734,1281893,[]
+7iQXYTyuG13aoeHxGG28Nh,PERRO NEGRO,Bad Bunny,4q3ewBCX7sLwd24euuV69X,nadie sabe lo que va a pasar mañana,album,2023-10-13,162767,True,440061,5517385,"['Reggaeton', 'puerto rico']"
+6vh4S1z08AjGipGAEsV62e,EUROPA :),Bad Bunny,4q3ewBCX7sLwd24euuV69X,nadie sabe lo que va a pasar mañana,album,2023-10-13,11904,False,818,3875,[]
+1C7lXfx4Y5maVl4AgUVlHA,ACHO PR,Bad Bunny,4q3ewBCX7sLwd24euuV69X,nadie sabe lo que va a pasar mañana,album,2023-10-13,359647,True,97248,812195,[]
+5ixdmTpCmH5diBA1j154wN,UN PREVIEW,Bad Bunny,4q3ewBCX7sLwd24euuV69X,nadie sabe lo que va a pasar mañana,album,2023-10-13,165582,True,227168,1964704,[]
+6Xom58OOXk2SoU711L2IXO,Moscow Mule,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,album,2022-05-06,245939,True,645170,9689628,"['latin', 'Reggaeton', 'psytrance', 'rock', 'hardcore']"
+1dm6z1fWB0cErMszU25dy2,Después de la Playa,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,album,2022-05-06,230400,False,408145,4710991,[]
+6Sq7ltF9Qa7SNFBsV5Cogx,Me Porto Bonito,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,album,2022-05-06,178567,True,743345,10177105,"['bad bunny', 'Reggaeton', 'king of pop', 'latin', 'rey del pop']"
+1IHWl5LamUGEuP4ozKQSXZ,Tití Me Preguntó,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,album,2022-05-06,243716,True,1066559,13925542,"['Reggaeton', 'dembow', 'king of pop', 'latin', 'fire']"
+5CzixCxDkRXX9mScCmah8O,Un Ratito,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,album,2022-05-06,176936,True,337522,3787996,[]
+5kVZxyMY1gfdCLiChsfjn1,Yo No Soy Celoso,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,album,2022-05-06,230704,True,367862,4056813,[]
+41oY4WCTj5kccfesTVFnvN,Tarot,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,album,2022-05-06,237894,True,393068,5587904,"['Reggaeton', 'latin', 'furry', 'EDM', 'Roblox']"
+31i56LZnwE6uSu3exoHjtB,Neverita,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,album,2022-05-06,173119,False,484391,6553741,"['trap', 'regueton', 'hip hop', 'latin', 'dance-pop']"
+1797zYiX4cKosMH836X9Gt,La Corriente,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,album,2022-05-06,198367,True,309928,3608978,[]
+5Eax0qFko2dh7Rl2lYs3bx,Efecto,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,album,2022-05-06,213061,True,503731,7048753,"['Reggaeton', 'latin']"
+4tYFy8ALRjIZvnvSLw5lxN,Party,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,album,2022-05-06,227628,True,428836,5215130,"['Reggaeton', 'latin', '11', 'digital hardcore', 'webcore']"
+2uflssWlCaJ6CbTMOsUpNI,Aguacero,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,album,2022-05-06,210989,True,289103,3155703,[]
+2NMjggapJcXXM7WccGEBUO,Enséñame a Bailar,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,album,2022-05-06,176000,False,294803,3284599,[]
+3k3NWokhRRkEPhCzPmV8TW,Ojitos Lindos,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,album,2022-05-06,258298,False,548642,8169187,"['latin', 'Reggaeton', 'latin pop', 'summer', 'pop']"
+4d4ZXH4dr5bYfgErHiZCX2,Dos Mil 16,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,album,2022-05-06,208615,True,276712,3430920,"['trap', 'trap latino', 'cloud rap']"
+0UvZcEfpzVyx47QsRbjyBz,El Apagón,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,album,2022-05-06,201816,True,362201,3649131,"['latin house', 'underscores', 'tribal house', 'electro house', 'dembow']"
+0E0DRHf5PfMeor0ZCwB3oT,Otro Atardecer,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,album,2022-05-06,244444,False,548100,7236442,"['latin pop', 'spanish', 'bedroom pop', 'afrobeats', 'chillwave']"
+6VrQTLzzuyGIYjUDe4kAZk,Un Coco,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,album,2022-05-06,196412,True,319352,4184927,[]
+44XjoNvtwevktFKjvVe1vH,Andrea,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,album,2022-05-06,339611,True,286918,3588593,[]
+28GCbKgjlVD9eDmasGbe0T,Me Fui de Vacaciones,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,album,2022-05-06,180929,False,258043,2499346,[]
+18HOjcvTVV7W8YzBuOsAPS,Un Verano Sin Ti,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,album,2022-05-06,148143,False,286426,3532000,[]
+0wihfILRNOwE2156Shezc8,Agosto,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,album,2022-05-06,139041,True,269841,3215784,[]
+71wFwRo8xGc4lrcyKwsvba,Callaita,Bad Bunny,4q3ewBCX7sLwd24euuV69X,Un Verano Sin Ti,album,2022-05-06,250533,True,530098,6186542,"['Reggaeton', 'Hip-Hop', 'Kanye West', 'post-rock', 'rap']"
+36DHxTW2xdr9GG15T9oK9L,EL MUNDO ES MÍO,Bad Bunny,4q3ewBCX7sLwd24euuV69X,EL ÚLTIMO TOUR DEL MUNDO,album,2020-11-27,165199,False,89361,732221,[]
+5RubKOuDoPn5Kj5TLVxSxY,TE MUDASTE,Bad Bunny,4q3ewBCX7sLwd24euuV69X,EL ÚLTIMO TOUR DEL MUNDO,album,2020-11-27,130013,True,248902,2771735,[]
+0tjZv2hChdHZCW1zFXpy1J,HOY COBRÉ,Bad Bunny,4q3ewBCX7sLwd24euuV69X,EL ÚLTIMO TOUR DEL MUNDO,album,2020-11-27,162151,True,113025,1050309,[]
+0Lsis3LB0XAK6XlTHXaJk2,MALDITA POBREZA,Bad Bunny,4q3ewBCX7sLwd24euuV69X,EL ÚLTIMO TOUR DEL MUNDO,album,2020-11-27,213609,True,95418,796338,[]
+2XIc1pqjXV3Cr2BQUGNBck,LA NOCHE DE ANOCHE,Bad Bunny,4q3ewBCX7sLwd24euuV69X,EL ÚLTIMO TOUR DEL MUNDO,album,2020-11-27,203200,False,397742,3800600,[]
+23XjN1s3DZC8Q9ZwuorYY4,TE DESEO LO MEJOR,Bad Bunny,4q3ewBCX7sLwd24euuV69X,EL ÚLTIMO TOUR DEL MUNDO,album,2020-11-27,139576,True,128672,1254850,[]
+5fROvzNghPid8mbKNDYvpJ,YO VISTO ASÍ,Bad Bunny,4q3ewBCX7sLwd24euuV69X,EL ÚLTIMO TOUR DEL MUNDO,album,2020-11-27,191526,False,111273,1079261,[]
+26QApq0cuO9brJigr0C0W4,HACIENDO QUE ME AMAS,Bad Bunny,4q3ewBCX7sLwd24euuV69X,EL ÚLTIMO TOUR DEL MUNDO,album,2020-11-27,217768,True,149418,1679354,[]
+26w9NTiE9NGjW1ZvIOd1So,BOOKER T,Bad Bunny,4q3ewBCX7sLwd24euuV69X,EL ÚLTIMO TOUR DEL MUNDO,album,2020-11-27,156430,True,204920,2605513,[]
+67ACYA3UI6QMNtHX6b34wX,LA DROGA,Bad Bunny,4q3ewBCX7sLwd24euuV69X,EL ÚLTIMO TOUR DEL MUNDO,album,2020-11-27,162299,True,116571,1339363,[]
+4MzXwWMhyBbmu6hOcLVD49,DÁKITI,Bad Bunny,4q3ewBCX7sLwd24euuV69X,EL ÚLTIMO TOUR DEL MUNDO,album,2020-11-27,205090,True,635170,8504654,"['rap', 'latin', 'rnb', 'Hip-Hop', 'ambient pop']"
+09WAnxdBuebQopKhJT3oZS,TRELLAS,Bad Bunny,4q3ewBCX7sLwd24euuV69X,EL ÚLTIMO TOUR DEL MUNDO,album,2020-11-27,157673,False,86028,729973,[]
+5jZ32WOU7sqzDYbzINwMUk,SORRY PAPI,Bad Bunny,4q3ewBCX7sLwd24euuV69X,EL ÚLTIMO TOUR DEL MUNDO,album,2020-11-27,163053,True,139881,1580166,[]
+3KJ3opyV29269SXkPrc19l,120,Bad Bunny,4q3ewBCX7sLwd24euuV69X,EL ÚLTIMO TOUR DEL MUNDO,album,2020-11-27,151506,True,164715,2482768,[]
+7kjEqI6eZ7YlFrGhxixnlN,ANTES QUE SE ACABE,Bad Bunny,4q3ewBCX7sLwd24euuV69X,EL ÚLTIMO TOUR DEL MUNDO,album,2020-11-27,221186,False,123172,1257937,[]
+2Iv6YBslkxslMJQsxshZh5,CANTARES DE NAVIDAD,Bad Bunny,4q3ewBCX7sLwd24euuV69X,EL ÚLTIMO TOUR DEL MUNDO,album,2020-11-27,199720,False,480,3365,[]
+1zaDh3qaGSeSmulNyWlUxm,SI ELLA SALE,Bad Bunny,4q3ewBCX7sLwd24euuV69X,LAS QUE NO IBAN A SALIR,album,2020-05-10,143240,False,60068,330849,[]
+4EJHKSnHENfjOxXWryyNtL,MÁS DE UNA CITA,Bad Bunny,4q3ewBCX7sLwd24euuV69X,LAS QUE NO IBAN A SALIR,album,2020-05-10,183520,True,71570,427087,[]
+0FktnzDqjClqU6iqOZVEs2,BYE ME FUI,Bad Bunny,4q3ewBCX7sLwd24euuV69X,LAS QUE NO IBAN A SALIR,album,2020-05-10,178000,True,109127,968388,[]
+3pm4XtcsRIFFtH2UErk62R,CANCIÓN CON YANDEL,Bad Bunny,4q3ewBCX7sLwd24euuV69X,LAS QUE NO IBAN A SALIR,album,2020-05-10,209180,True,1000,6009,[]
+5XqCz18k96K8tx6DAYM97i,PA' ROMPERLA,Bad Bunny,4q3ewBCX7sLwd24euuV69X,LAS QUE NO IBAN A SALIR,album,2020-05-10,194200,True,109056,812365,[]
+5bmSver2b3ZXyuyLKtgnFI,BAD CON NICKY,Bad Bunny,4q3ewBCX7sLwd24euuV69X,LAS QUE NO IBAN A SALIR,album,2020-05-10,202240,True,81195,621486,[]
+2CoMYp2uIKsT09nreEZnZn,BENDICIONES,Bad Bunny,4q3ewBCX7sLwd24euuV69X,LAS QUE NO IBAN A SALIR,album,2020-05-10,155060,False,80896,510449,[]
+6KFjMJJq8UZpfUyDgeH0Yl,CÓMO SE SIENTE - Remix,Bad Bunny,4q3ewBCX7sLwd24euuV69X,LAS QUE NO IBAN A SALIR,album,2020-05-10,227120,True,8070,28272,[]
+3XZeOzJ9tqnu58YP6cqApI,RONCA FREESTYLE,Bad Bunny,4q3ewBCX7sLwd24euuV69X,LAS QUE NO IBAN A SALIR,album,2020-05-10,150060,True,60793,435744,[]
+2DhNdoHxavs7Qtf5MnhZD0,EN CASITA,Bad Bunny,4q3ewBCX7sLwd24euuV69X,LAS QUE NO IBAN A SALIR,album,2020-05-10,176440,False,46193,250848,[]
+0lok0VDJn0zRvHLBCITSSw,kiss me,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,petal,album,2026-07-31,219584,False,89599,618493,[]
+3iy2QuCtCzpWnR6tia39AB,hate that i made you love me,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,petal,album,2026-07-31,197949,False,738950,13036238,"['pop', 'bedroom pop', 'synthpop', 'alt-pop', 'Ariana Grande']"
+70pVCVMGjmIWPbWXDwf11e,petal,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,petal,album,2026-07-31,184248,True,94999,728877,"['Donald Trump', 'soty', 'trump', 'petal', 'nicki minaj']"
+0QltPqkR4dnhbINyBOU5SY,stay,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,petal,album,2026-07-31,148420,False,84256,531666,[]
+5DZOKNtaoVEssXu9ltcMjx,oh well,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,petal,album,2026-07-31,196166,False,78090,491380,[]
+6MFSqc8pzXlwfzXqWZEKd4,big feelings,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,petal,album,2026-07-31,173622,True,76099,461440,[]
+6QhsCYcFdfyMbPWCiViI8K,freak,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,petal,album,2026-07-31,199809,True,74244,451808,[]
+0cJRr7kw5FkV5e8ejEB2j6,warning signs (interlude),Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,petal,album,2026-07-31,77342,False,73689,513304,[]
+3d1oTMjtfVySbAYQp3v4MU,like i do,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,petal,album,2026-07-31,167333,True,77078,580193,[]
+55srcWA7TioKV0LZVNXltY,never get over me,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,petal,album,2026-07-31,228857,True,72781,457604,[]
+4zmXWmILSBkn7gTvIyCiNi,bad thing (bunny hop),Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,petal,album,2026-07-31,208024,True,72964,527424,[]
+5JbnupagBhD0AanbkCELdH,"nowhere, nobody",Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,petal,album,2026-07-31,172001,False,69329,460041,[]
+6S8lgW6nwrK75tddTLH7mX,Moonlight,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Dangerous Woman (Tenth Anniversary Edition),album,2026-05-20,202366,False,561329,7248007,"['start the hits', 'Love', 'pop', 'rnb', 'Masterpiece']"
+5EZWzEWmjVl6Eqn3tOSA2g,Dangerous Woman,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Dangerous Woman (Tenth Anniversary Edition),album,2026-05-20,235949,False,1499512,18803220,"['pop', 'rnb', '2016', 'sexy', 'best of 2016']"
+0RCSbGc93M6SpC8TBG0pPR,Be Alright,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Dangerous Woman (Tenth Anniversary Edition),album,2026-05-20,179283,False,560007,6930201,"['pop', 'deep house', 'best of 2016', 'rnb', 'Ariana Grande']"
+4Bsd7hSLYvqaZFRyaWiw1E,Into You,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Dangerous Woman (Tenth Anniversary Edition),album,2026-05-20,244444,False,1806087,29296166,"['pop', 'best of 2016', 'dance-pop', 'love at first listen', '2016']"
+7maih5X07qAqHxiPtN2mo3,Side To Side,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Dangerous Woman (Tenth Anniversary Edition),album,2026-05-20,226178,True,1443749,14208056,"['pop', 'reggae', '2016', 'nicki minaj', 'Ariana Grande']"
+1gBeG7MWAJJaCcQdWkRO3T,Let Me Love You,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Dangerous Woman (Tenth Anniversary Edition),album,2026-05-20,223871,False,843634,9272937,"['rnb', 'Lil Wayne', 'Perigo', 'sexy', 'pop']"
+7tH0eZNUkdI3OiSfzXxgCr,Greedy,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Dangerous Woman (Tenth Anniversary Edition),album,2026-05-20,214889,False,833828,10827251,"['berro', 'love at first listen', 'pop', 'grito', 'omg']"
+3z8MkhnA2WVfzoCrt3bM5j,Leave Me Lonely,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Dangerous Woman (Tenth Anniversary Edition),album,2026-05-20,229677,False,336703,3644624,"['justin bieber', 'soul', 'pop', 'rnb', 'beyonce']"
+28OUThncuwdC6uasRvZd9w,Everyday,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Dangerous Woman (Tenth Anniversary Edition),album,2026-05-20,194833,True,821397,9827751,"['pop', 'rap', 'bomba', 'trap', 'American Ariana Grande']"
+3a1mMCctccHQQH52l15nmJ,Sometimes,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Dangerous Woman (Tenth Anniversary Edition),album,2026-05-20,226666,False,374605,5240977,"['love at first listen', 'hino', 'pop', 'rnb', 'Love']"
+1neFBSwRU3dzKYTcGJcLuI,I Don't Care,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Dangerous Woman (Tenth Anniversary Edition),album,2026-05-20,178032,True,287802,2638796,"['rnb', 'pop', 'female vocalist', 'soul', 'Sleep']"
+5Szw7p9ifAVy7d07JRYsW5,Bad Decisions,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Dangerous Woman (Tenth Anniversary Edition),album,2026-05-20,226420,True,364802,4765599,"['pop', 'rnb', 'hino', 'hip hop', 'dance pop']"
+6uhqt6wYnJ7uaevzHGy8kY,Touch It,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Dangerous Woman (Tenth Anniversary Edition),album,2026-05-20,260006,False,502902,8690167,"['pop', 'love at first listen', 'amazing', 'hino', 'synthpop']"
+5cjqjeRvbu936DNHQCUdbf,Knew Better / Forever Boy,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Dangerous Woman (Tenth Anniversary Edition),album,2026-05-20,299213,False,348592,4226783,"['Slay', 'pop', 'hino', 'deep house', 'Love']"
+7LxgJNQ2I4fXteg5WPx4Xj,Thinking Bout You,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Dangerous Woman (Tenth Anniversary Edition),album,2026-05-20,200383,True,465443,7191637,"['love at first listen', 'pop', 'rnb', 'Love', 'beautiful']"
+4oR18wubZXPJ0KAGswv1mx,Step On Up,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Dangerous Woman (Tenth Anniversary Edition),album,2026-05-20,180857,False,253109,2011270,"['pop', '2016', 'why on earth is this just a bonus track', 'dance', 'female vocals']"
+1uQ9UdixMfHCVegHhRTExO,Jason's Song (Gave It Away),Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Dangerous Woman (Tenth Anniversary Edition),album,2026-05-20,264626,True,185792,1817695,"['why on earth is this just a bonus track', 'jazz', 'a era jazz chega pra todas', 'soul', 'rnb']"
+789c3DD8obKdAWe1In9Fp5,Knew Better Part Two,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Dangerous Woman (Tenth Anniversary Edition),album,2026-05-20,164772,True,109633,843776,"['pop', 'julia mofada', 'rap', 'remix', 'buwygfibsara']"
+6RO76UK0g0r1BJqpk3VwXJ,Every Day More Wicked,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Wicked: For Good – The Soundtrack,album,2025-11-21,288766,False,18,119,[]
+0NF7g7bRjrPHpwWmCAMXqk,Thank Goodness / I Couldn’t Be Happier,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Wicked: For Good – The Soundtrack,album,2025-11-21,322866,False,100315,748812,[]
+4ksMhBwCDJJEaAbuQKYXJz,No Place Like Home,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Wicked: For Good – The Soundtrack,album,2025-11-21,231233,False,26,73,[]
+1hSbcsqNmTaLVOUQ340Flt,The Wicked Witch of the East,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Wicked: For Good – The Soundtrack,album,2025-11-21,203330,False,7,32,[]
+0fn8RZiNxBfRHRLX8UJI9T,Wonderful,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Wicked: For Good – The Soundtrack,album,2025-11-21,285456,False,34,141,[]
+22MepoED2nQFwUxH2ZnUx2,I’m Not That Girl (Reprise),Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Wicked: For Good – The Soundtrack,album,2025-11-21,130546,False,80627,383054,[]
+59vtqGF0p7RgNjnzC9Zk2p,As Long As You’re Mine,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Wicked: For Good – The Soundtrack,album,2025-11-21,246573,False,36,121,[]
+5o0hD6Bs6RdyZxfYBoEEc8,No Good Deed,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Wicked: For Good – The Soundtrack,album,2025-11-21,230250,False,104,226,[]
+6kyPPsnaFuPX65bd36fdb8,March of the Witch Hunters,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Wicked: For Good – The Soundtrack,album,2025-11-21,156209,False,17,42,[]
+6Wxn79EwKPQvYerlctheGx,The Girl in the Bubble,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Wicked: For Good – The Soundtrack,album,2025-11-21,220500,False,93115,671351,[]
+5shGj5OOnpmg4tQlFjyzZY,For Good,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Wicked: For Good – The Soundtrack,album,2025-11-21,377098,False,124,3229,[]
+7LtqaCjLaiSvSdYgFQyYEM,intro (end of the world),Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,eternal sunshine deluxe: brighter days ahead,album,2025-03-28,92400,True,912336,19836468,"['intro', 'female vocalists', 'Ballad', 'AOTY', 'Ariana Grande']"
+3NcrKwg8J1mOB1Ybt18rYt,bye,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,eternal sunshine deluxe: brighter days ahead,album,2025-03-28,164927,False,851810,17717749,"['AOTY', 'pop', 'dance-pop', 'love at first listen', '2024']"
+65EIzsI7l5NgVG6ARaPath,don't wanna break up again,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,eternal sunshine deluxe: brighter days ahead,album,2025-03-28,174006,True,673332,14379766,"['2024', 'AOTY', 'pop', 'rnb', 'best of 2024']"
+37xSCULPsOwbtlrfXxWNyo,Saturn Returns Interlude,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,eternal sunshine deluxe: brighter days ahead,album,2025-03-28,42166,False,539894,9162695,"['my top songs', 'saturn', 'AOTY', '2024', 'best of 2024']"
+0ZE7YRwdYqM8CtmfExYGDk,eternal sunshine,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,eternal sunshine deluxe: brighter days ahead,album,2025-03-28,210200,False,759015,18741479,"['trap', 'AOTY', 'plugg', 'pop', 'contemporary rnb']"
+5V7rdUyypIWQ1T52gRfY44,supernatural,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,eternal sunshine deluxe: brighter days ahead,album,2025-03-28,163381,False,864281,19346403,"['peter', 'synthpop', 'rnb', 'AOTY', 'dark ambient']"
+48bbrovqXOEgBAmcaoKe9h,true story,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,eternal sunshine deluxe: brighter days ahead,album,2025-03-28,163278,False,599162,12605360,"['peter', 'rnb', 'AOTY', 'pop', '2024']"
+59mCYbP5mcOn7vIgHshRPv,the boy is mine,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,eternal sunshine deluxe: brighter days ahead,album,2025-03-28,173639,True,1104738,26685254,"['motomano', 'pop', 'rnb', 'love at first listen', 'trap']"
+0eanJEFFplPt5ByX33ms63,"yes, and?",Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,eternal sunshine deluxe: brighter days ahead,album,2025-03-28,214994,True,1171273,27196515,"['House', 'pop', 'VOGUE', 'dance', 'Ariana Grande']"
+3zSnPhuucEb9JbFSxKVcIn,we can't be friends (wait for your love),Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,eternal sunshine deluxe: brighter days ahead,album,2025-03-28,228639,False,1474744,37739662,"['pop', 'synthpop', '2024', 'soty', 'best of 2024']"
+6XIcW7JmkYlnHLWtn2qyxZ,i wish i hated you,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,eternal sunshine deluxe: brighter days ahead,album,2025-03-28,153633,False,640222,10818824,"['Ballad', 'pop', 'AOTY', 'ambient pop', '2024']"
+53XP6aAlSDIEjRJr8F0fh0,imperfect for you,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,eternal sunshine deluxe: brighter days ahead,album,2025-03-28,182566,True,594617,11427334,"['female vocalists', 'pop', 'Ballad', 'trip-hop', 'love at first listen']"
+43TXNdQorrBW62jfmm4jkS,ordinary things (feat. Nonna),Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,eternal sunshine deluxe: brighter days ahead,album,2025-03-28,168500,False,501218,8039098,"['eternal sunshine', 'meli', 'notrhuu', 'electro soul', 'dance-pop']"
+5BBkvXH2jYROUzKIB7WX7S,intro (end of the world) - extended,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,eternal sunshine deluxe: brighter days ahead,album,2025-03-28,161252,True,371612,5430534,"['pop', 'free jazz', 'rnb', 'singer-songwriter', 'orchestral']"
+1YRbAonLvmuUILvQso0gUM,twilight zone,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,eternal sunshine deluxe: brighter days ahead,album,2025-03-28,198320,False,623450,12389097,"['pop', 'música do jp', 'BARBARA PARIS LOVES IT', 'synthpop', 'Ariana Grande']"
+0BeR2fJmYnKNn7IORw3GR9,warm,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,eternal sunshine deluxe: brighter days ahead,album,2025-03-28,201905,False,397553,6671572,"['raphael core', 'pop', 'House', 'instrumental', 'dream pop']"
+6wZOZ0votPhc8qdg4UFPtH,dandelion,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,eternal sunshine deluxe: brighter days ahead,album,2025-03-28,204815,False,451185,8284828,"['siqueira core', 'pop', 'soty', 'trap', 'ended mars argo']"
+2MIpkAQVJqQIDf9k4YWoHR,past life,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,eternal sunshine deluxe: brighter days ahead,album,2025-03-28,215834,True,396618,7330132,"['pop', 'rnb', 'song of the year', 'trap', 'alternative rnb']"
+4D2DFuqs2PwLiHbcf6CX47,Hampstead,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,eternal sunshine deluxe: brighter days ahead,album,2025-03-28,216264,True,409024,7088078,"['Ballad', 'pop', 'piano', 'pedrinhe', 'orchestral']"
+0br9vcQnqeqp9PKCGsrxAF,No One Mourns the Wicked,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Wicked: The Soundtrack,album,2024-11-22,447991,False,439,5606,[]
+4HAhrqmjZ6ltgVdPF8K6wn,Dear Old Shiz,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Wicked: The Soundtrack,album,2024-11-22,71734,False,152,1971,[]
+4mxj6SQ7BxfQ90CBTbxcwH,The Wizard And I,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Wicked: The Soundtrack,album,2024-11-22,336858,False,669,2932,[]
+7eGuPhpdS8sBjPJNuAShUX,What Is This Feeling?,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Wicked: The Soundtrack,album,2024-11-22,228947,False,416733,5768330,[]
+5E2ASK5znLzoizBy4njhM4,Something Bad,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Wicked: The Soundtrack,album,2024-11-22,108300,False,51,198,[]
+6qo8v2y2MHUSPLs7VBc6cG,Dancing Through Life,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Wicked: The Soundtrack,album,2024-11-22,587364,False,188,2369,[]
+3i8fIJNV0yuC4kXT3SkVBZ,Popular,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Wicked: The Soundtrack,album,2024-11-22,241501,False,469320,4843185,"['Soundtrack', 'peter', 'Ariana Grande', 'musical', 'Wicked']"
+2tWioTW2rs0CXf1dTXlRrX,I’m Not That Girl,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Wicked: The Soundtrack,album,2024-11-22,237043,False,102,449,[]
+4jNerIJa2IOeL5gVDvMNLW,One Short Day,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Wicked: The Soundtrack,album,2024-11-22,392668,False,85,1369,[]
+2Nox49biysRuKoIaDWMemm,A Sentimental Man,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Wicked: The Soundtrack,album,2024-11-22,132621,False,70,254,[]
+5QMrH5nszZZR3nefIj6Mar,Defying Gravity,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Wicked: The Soundtrack,album,2024-11-22,459766,False,572,5169,[]
+5oUggqlg7zOto1unBbj393,Ozdust Duet - Bonus Track,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,Wicked: The Soundtrack,album,2024-11-22,131863,False,38,125,[]
+3nI1lZcOKxp4QHG6fCOW6g,Wrong Ones (Feat. Tim McGraw),Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion: Long Bed,album,2024-08-16,195822,True,124285,770762,[]
+5QCOS7bwiz2i3jQqB8KZGS,Finer Things (Feat. Hank Williams Jr.),Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion: Long Bed,album,2024-08-16,185533,False,90375,525844,[]
+2PoE4L4YsgxtCgqBogKc5c,I Had Some Help (Feat. Morgan Wallen),Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion: Long Bed,album,2024-08-16,178205,True,684170,7983866,"['country', 'pop', '2024', 'P Artist', 'country pop']"
+5JNdWvUQz88ReuMRhbt2a7,Pour Me A Drink (Feat. Blake Shelton),Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion: Long Bed,album,2024-08-16,195122,False,211744,1666786,[]
+2jl6rKH9qQsCgmeDytere3,Have The Heart (Feat. Dolly Parton),Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion: Long Bed,album,2024-08-16,183333,False,86127,441235,[]
+3yjJCbT29Wc8ccWy9yag7l,What Don't Belong To Me,Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion: Long Bed,album,2024-08-16,207176,False,112619,918977,[]
+150w1WjVxUWycZqTflcDAe,Goes Without Saying (Feat. Brad Paisley),Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion: Long Bed,album,2024-08-16,212353,False,74886,417957,[]
+65nOJMlffOn2mhgyCLl4eo,Guy For That (Feat. Luke Combs),Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion: Long Bed,album,2024-08-16,164011,False,219450,1638212,[]
+1gartEVtdwerBS7LDybF2j,Nosedive (Feat. Lainey Wilson),Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion: Long Bed,album,2024-08-16,192459,False,86861,490397,[]
+7x3lbhchD4MeSflqqMl5AN,Losers (Feat. Jelly Roll),Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion: Long Bed,album,2024-08-16,209038,False,112277,758271,[]
+7CCYpMwDe5eH5PRzJ6owTA,Devil I've Been (Feat. ERNEST),Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion: Long Bed,album,2024-08-16,182924,False,64545,380506,[]
+6H5VHVg9TIiX2HFbBhD1aw,Never Love You Again (Feat. Sierra Ferrell),Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion: Long Bed,album,2024-08-16,186861,False,68416,350995,[]
+7MzbSTn0EYOgLPD77gBpbW,Missin’ You Like This (Feat. Luke Combs),Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion: Long Bed,album,2024-08-16,222781,False,72864,545176,[]
+3nrot8erPmV7L5BrPW9mVi,California Sober (Feat. Chris Stapleton),Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion: Long Bed,album,2024-08-16,204411,True,87420,397428,[]
+1BLk8GO0IOT6GlRvmLIM0d,Hide My Gun (Feat. HARDY),Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion: Long Bed,album,2024-08-16,220479,True,65459,402001,[]
+5YpGtgrW64ZerAxtxqh0w2,Right About You,Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion: Long Bed,album,2024-08-16,183046,False,55698,357212,[]
+4l1naE7FrhvBrEkNjtGbSB,M-E-X-I-C-O (Feat. Billy Strings),Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion: Long Bed,album,2024-08-16,155928,False,64333,406413,[]
+4YAHUhyTzxbA5BkMTbvKqb,Yours,Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion: Long Bed,album,2024-08-16,199438,False,68186,446119,[]
+1QTNo6sCt8km4v3GyHRNlS,Fallin’ In Love,Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion: Long Bed,album,2024-08-16,171185,False,40106,273632,[]
+0b89M5bonRIcsR781e4xGT,Dead At The Honky Tonk,Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion: Long Bed,album,2024-08-16,213225,False,41436,285184,[]
+3G8syjk315Wb6f3mG3rgC1,Killed A Man,Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion: Long Bed,album,2024-08-16,185608,False,32155,185650,[]
+4ApqBh1Xnrpwx6EbhoUPgq,Ain’t How It Ends,Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion: Long Bed,album,2024-08-16,201961,False,38638,246841,[]
+1uukncdtRehiZS3SMHOxYZ,Hey Mercedes,Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion: Long Bed,album,2024-08-16,202638,False,41175,291807,[]
+6xz2HtIi1xp4bMKeFJ3krV,Go To Hell,Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion: Long Bed,album,2024-08-16,267330,True,26173,140629,[]
+3vBTLInbHYx46zZZEpQx1C,Two Hearts,Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion: Long Bed,album,2024-08-16,206753,False,26828,150379,[]
+58BnhZIDqSFWmXsj3UA1Un,Who Needs You,Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion: Long Bed,album,2024-08-16,169864,False,29920,212715,[]
+4fe6BhZYJJw7XRZk6muwzm,Back To Texas,Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion: Long Bed,album,2024-08-16,167833,False,25467,147364,[]
+2CIXO1jQbrV1hlfI7FUKld,Wrong Ones (Feat. Tim McGraw),Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,album,2024-08-15,195822,True,124285,770762,[]
+4Kd9tBUgpXv26OfR6ugBv1,Finer Things (Feat. Hank Williams Jr.),Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,album,2024-08-15,185533,False,90375,525844,[]
+5IZXB5IKAD2qlvTPJYDCFB,I Had Some Help (Feat. Morgan Wallen),Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,album,2024-08-15,178205,True,684170,7983866,"['country', 'pop', '2024', 'P Artist', 'country pop']"
+0mNzElhEofvgMWAJoOA4q9,Pour Me A Drink (Feat. Blake Shelton),Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,album,2024-08-15,195122,False,211744,1666786,[]
+1sqXfPaRD7npnH712RZQAF,Have The Heart (Feat. Dolly Parton),Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,album,2024-08-15,183333,False,86127,441235,[]
+0lJNSfWnwJMIh94Dv9jQUt,What Don't Belong To Me,Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,album,2024-08-15,207176,False,112619,918977,[]
+20hTkA9oKKuxghkRptRczS,Goes Without Saying (Feat. Brad Paisley),Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,album,2024-08-15,212353,False,74886,417957,[]
+6StwwqB84sJeLr7tZDTxEX,Guy For That (Feat. Luke Combs),Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,album,2024-08-15,164011,False,219450,1638212,[]
+25uMKq5kygC2woAfeetEfE,Nosedive (Feat. Lainey Wilson),Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,album,2024-08-15,192459,False,86861,490397,[]
+0gucUyFMFRMlUiVn9US4YX,Losers (Feat. Jelly Roll),Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,album,2024-08-15,209038,False,112277,758271,[]
+149r4BNMXwFRWjPYcKNNgc,Devil I've Been (Feat. ERNEST),Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,album,2024-08-15,182924,False,64545,380506,[]
+4rhSYWoLaBbkQccjme9UOJ,Never Love You Again (Feat. Sierra Ferrell),Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,album,2024-08-15,186861,False,68416,350995,[]
+1IzCS4zuowRsXu4YS8caOB,Missin’ You Like This (Feat. Luke Combs),Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,album,2024-08-15,222781,False,72864,545176,[]
+1SPI4AlK4121PEQPGSpdcY,California Sober (Feat. Chris Stapleton),Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,album,2024-08-15,204411,True,87420,397428,[]
+6nf4oqFOsVKLwJPEliYVwT,Hide My Gun (Feat. HARDY),Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,album,2024-08-15,220479,True,65459,402001,[]
+7k2nR2eTRVuzAMCXUj3HMv,Right About You,Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,album,2024-08-15,183046,False,55698,357212,[]
+3It5ZyIlvFxgrxAkiQLGBR,M-E-X-I-C-O (Feat. Billy Strings),Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,album,2024-08-15,155928,False,64333,406413,[]
+0DM63CJEklNPKu6kHGyuEl,Yours,Post Malone,246dkjvS1zLTtiykXe5h60,F-1 Trillion,album,2024-08-15,199438,False,68186,446119,[]
+72khpWnaVccMIEfJNLbzf4,Don't Understand,Post Malone,246dkjvS1zLTtiykXe5h60,AUSTIN (Bonus),album,2023-08-02,183379,False,132867,883498,[]
+373nrXuYab2ryFwNjHDLxZ,Something Real,Post Malone,246dkjvS1zLTtiykXe5h60,AUSTIN (Bonus),album,2023-08-02,205287,True,179658,1714917,[]
+0lZZebcSfJdm5LhDRtE0jx,Chemical,Post Malone,246dkjvS1zLTtiykXe5h60,AUSTIN (Bonus),album,2023-08-02,183410,True,546991,6799695,"['pop rock', 'pop', 'acoustic', 'guitar', 'groovy']"
+0RouqUmBBafKBAH3TdIm8l,Novacandy,Post Malone,246dkjvS1zLTtiykXe5h60,AUSTIN (Bonus),album,2023-08-02,197287,True,133606,1057610,[]
+5NsdWdkHR3AScw6EKj51CA,Mourning,Post Malone,246dkjvS1zLTtiykXe5h60,AUSTIN (Bonus),album,2023-08-02,147819,True,273679,3017938,[]
+4Q9r41IbGhNCTdgjxH9w8t,Too Cool To Die,Post Malone,246dkjvS1zLTtiykXe5h60,AUSTIN (Bonus),album,2023-08-02,204952,True,155874,1396310,[]
+35PZZmwJIEvwfI4z1nMXRI,Sign Me Up,Post Malone,246dkjvS1zLTtiykXe5h60,AUSTIN (Bonus),album,2023-08-02,198937,True,126274,1102812,[]
+37MvrBi4UHnb1BjRVTysWm,Socialite,Post Malone,246dkjvS1zLTtiykXe5h60,AUSTIN (Bonus),album,2023-08-02,199021,True,108517,775420,[]
+71snOgSRnUsYu2G74VBy40,Overdrive,Post Malone,246dkjvS1zLTtiykXe5h60,AUSTIN (Bonus),album,2023-08-02,147679,False,241550,2232852,[]
+07MXbWeFj8wrdLVvLCnzWw,Speedometer,Post Malone,246dkjvS1zLTtiykXe5h60,AUSTIN (Bonus),album,2023-08-02,162103,False,107685,791646,[]
+0HS8nptHdSq4SB1tAHcDQF,Hold My Breath,Post Malone,246dkjvS1zLTtiykXe5h60,AUSTIN (Bonus),album,2023-08-02,208904,False,88500,577220,[]
+1jekKGHnTIFpOIVRzlbJOW,Enough Is Enough,Post Malone,246dkjvS1zLTtiykXe5h60,AUSTIN (Bonus),album,2023-08-02,165175,True,197368,1562004,[]
+38qzuxvgmEEtlKIE9jDJWK,Texas Tea,Post Malone,246dkjvS1zLTtiykXe5h60,AUSTIN (Bonus),album,2023-08-02,139360,True,95607,717666,[]
+3ImFFwUPvzvqh9A00FRpAE,Buyer Beware,Post Malone,246dkjvS1zLTtiykXe5h60,AUSTIN (Bonus),album,2023-08-02,173481,True,88310,687855,[]
+6RFQBhkNheX5McADjusfjB,Landmine,Post Malone,246dkjvS1zLTtiykXe5h60,AUSTIN (Bonus),album,2023-08-02,184607,False,88898,701129,[]
+0onScSO7HtUxKaqxtj0X23,Green Thumb,Post Malone,246dkjvS1zLTtiykXe5h60,AUSTIN (Bonus),album,2023-08-02,159406,False,77640,548069,[]
+1UdagWdhnDqK9a0aWQpReY,Laugh It Off,Post Malone,246dkjvS1zLTtiykXe5h60,AUSTIN (Bonus),album,2023-08-02,246503,True,90527,907366,[]
+4kD3OqYqX2kJCUTEscRBxO,Joy,Post Malone,246dkjvS1zLTtiykXe5h60,AUSTIN (Bonus),album,2023-08-02,287428,False,53405,365443,[]
+4MTuL20LF3pWebeJbcNh7p,Don't Understand,Post Malone,246dkjvS1zLTtiykXe5h60,AUSTIN,album,2023-07-28,183379,False,132867,883498,[]
+444vevlQjTnKioLLncteGv,Something Real,Post Malone,246dkjvS1zLTtiykXe5h60,AUSTIN,album,2023-07-28,205287,True,179658,1714917,[]
+7jvtmQ3onpWeUm7dyFSSSc,Chemical,Post Malone,246dkjvS1zLTtiykXe5h60,AUSTIN,album,2023-07-28,183410,True,546991,6799695,"['pop rock', 'pop', 'acoustic', 'guitar', 'groovy']"
+6V1TqJxtw3P0ouCKICvl9l,Novacandy,Post Malone,246dkjvS1zLTtiykXe5h60,AUSTIN,album,2023-07-28,197287,True,133606,1057610,[]
+3pI3nzi2Y0Iyj1nATDOeQV,Mourning,Post Malone,246dkjvS1zLTtiykXe5h60,AUSTIN,album,2023-07-28,147819,True,273679,3017938,[]
+3FtQes77xlbS9QTVts7p2u,Too Cool To Die,Post Malone,246dkjvS1zLTtiykXe5h60,AUSTIN,album,2023-07-28,204952,True,155874,1396310,[]
+4mahloUW5K6KeGijwnMGDr,Sign Me Up,Post Malone,246dkjvS1zLTtiykXe5h60,AUSTIN,album,2023-07-28,198937,True,126274,1102812,[]
+3ZcJaN63FKEMxDWWPefsiW,Socialite,Post Malone,246dkjvS1zLTtiykXe5h60,AUSTIN,album,2023-07-28,199021,True,108517,775420,[]
+3uMO7jmdXxwSijvxNXDgE4,Overdrive,Post Malone,246dkjvS1zLTtiykXe5h60,AUSTIN,album,2023-07-28,147679,False,241550,2232852,[]
+5oJw81e2Tzr2rC0lHXnDPb,Speedometer,Post Malone,246dkjvS1zLTtiykXe5h60,AUSTIN,album,2023-07-28,162103,False,107685,791646,[]
+4qtxILwBcAHEHbG7R0xF4r,Hold My Breath,Post Malone,246dkjvS1zLTtiykXe5h60,AUSTIN,album,2023-07-28,208904,False,88500,577220,[]
+3BHFResGQiUvbYToUdaDQz,Enough Is Enough,Post Malone,246dkjvS1zLTtiykXe5h60,AUSTIN,album,2023-07-28,165175,True,197368,1562004,[]
+0cuNKdwaFrDJ4G1hYxI6aI,Texas Tea,Post Malone,246dkjvS1zLTtiykXe5h60,AUSTIN,album,2023-07-28,139360,True,95607,717666,[]
+6wOmmoM5nyS6mOyzo9wDjC,Buyer Beware,Post Malone,246dkjvS1zLTtiykXe5h60,AUSTIN,album,2023-07-28,173481,True,88310,687855,[]
+6Sjg6cp8yXtKX5DrcEl7HV,Landmine,Post Malone,246dkjvS1zLTtiykXe5h60,AUSTIN,album,2023-07-28,184607,False,88898,701129,[]
+04J9hE3RhAsecsgVWl70jW,Green Thumb,Post Malone,246dkjvS1zLTtiykXe5h60,AUSTIN,album,2023-07-28,159406,False,77640,548069,[]
+26EjM7ZMAnWOKPAuKNOX24,Laugh It Off,Post Malone,246dkjvS1zLTtiykXe5h60,AUSTIN,album,2023-07-28,246503,True,90527,907366,[]
+5WedFiLoUyE1e9d5JpxMFl,Reputation,Post Malone,246dkjvS1zLTtiykXe5h60,Twelve Carat Toothache (Deluxe),album,2022-06-07,248177,True,166048,1473270,[]
+3RSNYrTfBFBv4NTRfKNp2M,Cooped Up (with Roddy Ricch),Post Malone,246dkjvS1zLTtiykXe5h60,Twelve Carat Toothache (Deluxe),album,2022-06-07,185857,True,358202,3283386,[]
+3nCvNB04BBiBbK77KKYFCB,Lemon Tree,Post Malone,246dkjvS1zLTtiykXe5h60,Twelve Carat Toothache (Deluxe),album,2022-06-07,243486,True,178191,1772702,[]
+5CtPTzdOkkb8Bhy5JnUYyT,Wrapped Around Your Finger,Post Malone,246dkjvS1zLTtiykXe5h60,Twelve Carat Toothache (Deluxe),album,2022-06-07,193565,False,249221,2420079,[]
+0EFehFdU9HbOBzxzJ60IjE,I Like You (A Happier Song) (with Doja Cat),Post Malone,246dkjvS1zLTtiykXe5h60,Twelve Carat Toothache (Deluxe),album,2022-06-07,192840,True,785628,8271804,"['2022', 'pop', '2020s', 'rap', 'explicit lyrics']"
+2uoUmwEy9kSi1gp285zdsS,I Cannot Be (A Sadder Song) (with Gunna),Post Malone,246dkjvS1zLTtiykXe5h60,Twelve Carat Toothache (Deluxe),album,2022-06-07,169824,True,166747,1379038,[]
+6zc1W5CuZER3AbTvRCfLoa,Insane,Post Malone,246dkjvS1zLTtiykXe5h60,Twelve Carat Toothache (Deluxe),album,2022-06-07,169660,True,152237,1249140,[]
+7uSxfwJFwtZwP7NTHxto2B,Love/Hate Letter To Alcohol (with Fleet Foxes),Post Malone,246dkjvS1zLTtiykXe5h60,Twelve Carat Toothache (Deluxe),album,2022-06-07,183816,True,141489,1108139,[]
+2mecYcpCQOoFtkRbtDiGg0,Wasting Angels (with The Kid LAROI),Post Malone,246dkjvS1zLTtiykXe5h60,Twelve Carat Toothache (Deluxe),album,2022-06-07,243158,False,161112,1496505,[]
+0AARQZvYkMgdATBz79AuVO,Euthanasia,Post Malone,246dkjvS1zLTtiykXe5h60,Twelve Carat Toothache (Deluxe),album,2022-06-07,145795,True,112092,786503,[]
+2eQQ8JdEJkb9tRXCnMd1QO,When I’m Alone,Post Malone,246dkjvS1zLTtiykXe5h60,Twelve Carat Toothache (Deluxe),album,2022-06-07,195110,False,129671,1117013,[]
+14gWHtoBsZ02dpcBevAyZZ,Waiting For A Miracle,Post Malone,246dkjvS1zLTtiykXe5h60,Twelve Carat Toothache (Deluxe),album,2022-06-07,141851,True,93690,528307,[]
+0UGyZR7RmVoYT0DBJCxTPy,One Right Now (with The Weeknd),Post Malone,246dkjvS1zLTtiykXe5h60,Twelve Carat Toothache (Deluxe),album,2022-06-07,192721,True,654506,6726496,[]
+3KZxVGMNNzlEdZ2sGcqWze,"New Recording 12, Jan 3, 2020",Post Malone,246dkjvS1zLTtiykXe5h60,Twelve Carat Toothache (Deluxe),album,2022-06-07,92718,False,90013,436270,[]
+753lkDSNs2u188xbl8Vrnx,Waiting For Never,Post Malone,246dkjvS1zLTtiykXe5h60,Twelve Carat Toothache (Deluxe),album,2022-06-07,196986,True,130906,1304667,[]
+6p49tiDlXi6m9BD20P0z05,Hateful,Post Malone,246dkjvS1zLTtiykXe5h60,Twelve Carat Toothache (Deluxe),album,2022-06-07,178160,True,79808,616494,[]
+0EqH5Wz93cJtfUGv3vtQPY,29 Intro,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,The Fall-Off,album,2026-02-06,57733,True,160068,487854,[]
+57ENogEkvFsU7Wmt3lvQMG,Two Six,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,The Fall-Off,album,2026-02-06,196080,True,250342,1348459,"['hip hop', 'rap', 'hardcore hip hop', 'Hip-Hop', 'trap']"
+3sJLoIc9y1b4gKAP8ZNsR9,SAFETY,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,The Fall-Off,album,2026-02-06,318066,True,198470,1128147,"['pop rap', 'jazz rap', 'boom bap', 'rap', 'Hip-Hop']"
+4pPJQ2p8jIsBuvxEIW2R99,Run A Train (with Future),J. Cole,6l3HvQ5sa6mXTsMTB19rO5,The Fall-Off,album,2026-02-06,242573,True,118929,605004,[]
+1nhNz1tWU8p5WvFAAgFW2h,Poor Thang,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,The Fall-Off,album,2026-02-06,290346,True,165108,974329,[]
+7oSdhQFfq5ScVjRkVcj4Ua,Legacy (with PJ),J. Cole,6l3HvQ5sa6mXTsMTB19rO5,The Fall-Off,album,2026-02-06,235906,True,116002,527631,[]
+6jtqO14L18plBtpDTtUkFR,Bunce Road Blues (with Future & Tems),J. Cole,6l3HvQ5sa6mXTsMTB19rO5,The Fall-Off,album,2026-02-06,310626,True,143633,727041,[]
+5ZfOg71oANMaKmswvSEF2r,WHO TF IZ U,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,The Fall-Off,album,2026-02-06,277013,True,137615,733603,[]
+290Vqn3zZX5QarUQra9LT2,Drum n Bass,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,The Fall-Off,album,2026-02-06,254973,True,129766,591641,[]
+2aNaJLXE4SXbm9L23qpHTG,The Let Out,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,The Fall-Off,album,2026-02-06,254013,True,139394,782411,[]
+0Awr3NZMkRHQFabkMxW1VT,Bombs in the Ville/Hit the Gas,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,The Fall-Off,album,2026-02-06,246440,True,143978,747679,[]
+3QQp1Y4zWok1YvzB4zutGy,Lonely at the Top (Bonus),J. Cole,6l3HvQ5sa6mXTsMTB19rO5,The Fall-Off,album,2026-02-06,204413,True,115171,548220,[]
+4DvoYgOZXnqmKuc2GzzFHz,39 Intro,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,The Fall-Off,album,2026-02-06,366413,True,119462,870257,"['hip hop', 'Neo-Psychedelia', 'Neo-Soul', 'jazz rap', 'Conscious Hip Hop']"
+3kUHIvjJ8p9UzeaeeqHkfg,The Fall-Off is Inevitable,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,The Fall-Off,album,2026-02-06,176253,True,120707,677576,[]
+1lYM9PgB0QOk3pDo8h0UiN,The Villest (with Erykah Badu),J. Cole,6l3HvQ5sa6mXTsMTB19rO5,The Fall-Off,album,2026-02-06,270626,True,99842,508013,[]
+6WGJ7hPYHXu3aQ6x8GzigX,Old Dog (with Petey Pablo),J. Cole,6l3HvQ5sa6mXTsMTB19rO5,The Fall-Off,album,2026-02-06,202253,True,87478,481096,[]
+0pchHye1t8VA9gTHK3hAAZ,Life Sentence,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,The Fall-Off,album,2026-02-06,252986,True,101499,487449,[]
+0nn0Z1o1WI01pB7oEPiJeE,Only You (with Burna Boy),J. Cole,6l3HvQ5sa6mXTsMTB19rO5,The Fall-Off,album,2026-02-06,286866,True,82815,386520,[]
+0C9B7SpULk3KlkOz3MhTEb,Man Up Above,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,The Fall-Off,album,2026-02-06,298360,True,86344,387479,[]
+5pjf75G1zn9EEFa8iaCV5h,I Love Her Again,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,The Fall-Off,album,2026-02-06,332386,True,104223,643804,[]
+2yb0MxSCkck68LhC6zGiiv,What If (with Morray),J. Cole,6l3HvQ5sa6mXTsMTB19rO5,The Fall-Off,album,2026-02-06,319080,True,60197,270990,[]
+050ECC7Yu78pTJP8PrMo8o,Quik Stop,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,The Fall-Off,album,2026-02-06,264520,True,85853,536663,[]
+1jEwnEPAUAPL5eLiMPt1Fd,and the whole world is the Ville,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,The Fall-Off,album,2026-02-06,275213,True,78212,309441,[]
+6tRoAQrFAnSccpbVPHDIHb,Ocean Way (Bonus),J. Cole,6l3HvQ5sa6mXTsMTB19rO5,The Fall-Off,album,2026-02-06,154840,True,75223,368536,[]
+6amMYmRc7xB3810mRcTyoo,Intro,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,2014 Forest Hills Drive (10 Year Anniversary Edition),album,2024-12-20,129153,True,353153,2310661,[]
+1HIzycH0XPJEdanUas0BbF,January 28th,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,2014 Forest Hills Drive (10 Year Anniversary Edition),album,2024-12-20,242697,True,477350,4570883,"['j cole', 'Hip-Hop', 'Neo-Soul', 'rap', 'jazz rap']"
+2F9W0PJvdv5AWDewD1hwXs,Wet Dreamz,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,2014 Forest Hills Drive (10 Year Anniversary Edition),album,2024-12-20,239266,True,1285409,17310187,"['rap', 'hip hop', 'j cole', 'Hip-Hop', '2014']"
+5XQ3GLPOqpLCCGFfkNzi4B,03’ Adolescence,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,2014 Forest Hills Drive (10 Year Anniversary Edition),album,2024-12-20,264213,True,258220,2038485,[]
+7c424fJOUI38MLClpNWigW,A Tale Of 2 Citiez,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,2014 Forest Hills Drive (10 Year Anniversary Edition),album,2024-12-20,269721,True,423413,3553446,[]
+750pTNDkSio8qGAwy7NJ9d,Fire Squad,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,2014 Forest Hills Drive (10 Year Anniversary Edition),album,2024-12-20,288123,True,364416,2982708,[]
+2ddmLELgd6KaAKvZyh7LjF,St. Tropez,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,2014 Forest Hills Drive (10 Year Anniversary Edition),album,2024-12-20,257872,True,289690,1947422,[]
+6cn2rnUxc0j9btVBpAKcLR,G.O.M.D,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,2014 Forest Hills Drive (10 Year Anniversary Edition),album,2024-12-20,301064,True,407387,3548712,[]
+66eJ2U9gZAyeD19I5M2sSS,No Role Modelz,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,2014 Forest Hills Drive (10 Year Anniversary Edition),album,2024-12-20,292799,True,1720630,27099996,"['Hip-Hop', 'rap', 'j cole', 'pop rap', '2014']"
+3O3HVKUx8KBr4CMo0FEZLv,Hello,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,2014 Forest Hills Drive (10 Year Anniversary Edition),album,2024-12-20,219173,True,228389,1396962,[]
+4Yr8YxqTkTNh4xF4iqWWpO,Apparently,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,2014 Forest Hills Drive (10 Year Anniversary Edition),album,2024-12-20,292865,True,481156,4642287,"['hip hop', 'Hip-Hop', '2014', 'j cole', '10s']"
+68AIQ9ObaVxARMSklD2tYE,Love Yourz,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,2014 Forest Hills Drive (10 Year Anniversary Edition),album,2024-12-20,211496,True,651505,7749345,"['Hip-Hop', 'j cole', '2014', 'hip hop', 'rap']"
+5iaLWEW2AqrdMmORD8Pb6t,Note To Self,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,2014 Forest Hills Drive (10 Year Anniversary Edition),album,2024-12-20,875306,True,160773,640563,[]
+3jl8vmPdfQodceoYAmjrQs,Home Soon,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,2014 Forest Hills Drive (10 Year Anniversary Edition),album,2024-12-20,189794,True,32843,182721,[]
+4mtpjNb1aZ5TVBpqCGtqv0,Die Together,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,2014 Forest Hills Drive (10 Year Anniversary Edition),album,2024-12-20,224639,True,42323,197136,[]
+0EfSMdCzfbDsQpq7gnyYi4,Judgement Day,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,2014 Forest Hills Drive (10 Year Anniversary Edition),album,2024-12-20,194489,True,27368,140664,[]
+1D4qUYEH0cs7zNcUXVw6IX,Winter Wonderland,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,2014 Forest Hills Drive (10 Year Anniversary Edition),album,2024-12-20,184492,True,30989,220582,[]
+6f6wDJJ1Xvi7muiEx99pbh,Keep Heaven Dancing,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,2014 Forest Hills Drive (10 Year Anniversary Edition),album,2024-12-20,246958,True,25294,149151,[]
+3o86Gn0A25WmiY1p7Zpj5L,Miles (feat. Bone Thugs-N-Harmony),J. Cole,6l3HvQ5sa6mXTsMTB19rO5,2014 Forest Hills Drive (10 Year Anniversary Edition),album,2024-12-20,361889,True,20446,60562,[]
+7tVe2USxdv33QiqcafGZzv,Black Man in Hollywood,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,2014 Forest Hills Drive (10 Year Anniversary Edition),album,2024-12-20,178381,True,20522,99426,[]
+1mbrQBqzxgboW2esM2Xtun,Obviously,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,2014 Forest Hills Drive (10 Year Anniversary Edition),album,2024-12-20,221178,True,22374,134435,[]
+2w5BtuWXISpB6NM4xPoeiR,"Pricey (feat. Ari Lennox, Young Dro & Gucci Mane)",J. Cole,6l3HvQ5sa6mXTsMTB19rO5,Might Delete Later,album,2024-04-05,295146,True,132473,704758,[]
+1yfKakY4rvI17lk20ekuRA,Crocodile Tearz,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,Might Delete Later,album,2024-04-05,229186,True,206452,1406515,[]
+4J9WveqdoaEUQu1aeoSH9X,Ready ‘24 (feat. Cam’ron),J. Cole,6l3HvQ5sa6mXTsMTB19rO5,Might Delete Later,album,2024-04-05,210133,True,108199,490224,[]
+2cH8wHImerFokgmhjyhCTU,Huntin’ Wabbitz,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,Might Delete Later,album,2024-04-05,162026,True,272232,2204846,[]
+5RMTsrJkrtumtiIZjy7dL6,H.Y.B. (feat. Bas & Central Cee),J. Cole,6l3HvQ5sa6mXTsMTB19rO5,Might Delete Later,album,2024-04-05,234586,True,193275,1193689,[]
+6XkIQqAsFjk1XfD4L7G6qR,Fever,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,Might Delete Later,album,2024-04-05,142640,True,115880,562064,[]
+1tTKy8pW1dMaXJm7bYrSzA,Stickz N Stonez,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,Might Delete Later,album,2024-04-05,200786,True,118636,668759,[]
+0NXRZaUn11do0EzDFlXkbj,Pi (feat. Daylyt & Ab-Soul),J. Cole,6l3HvQ5sa6mXTsMTB19rO5,Might Delete Later,album,2024-04-05,354773,True,89061,432011,[]
+3zyjnHtoi8AtiGgZFnJP7O,Stealth Mode (feat. Bas),J. Cole,6l3HvQ5sa6mXTsMTB19rO5,Might Delete Later,album,2024-04-05,135213,True,128411,711682,[]
+7JRwdwgeTrYkJvwmecrPSW,3001,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,Might Delete Later,album,2024-04-05,157853,True,92192,510697,[]
+4E2fOeF5A6onC10OtnjXJa,Trae The Truth in Ibiza,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,Might Delete Later,album,2024-04-05,255440,True,151138,1211533,[]
+2mhdhTWqT8RhkTlN2yWZZi,7 Minute Drill,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,Might Delete Later,album,2024-04-05,212213,True,129679,424638,[]
+1BzXvBpIFWJgu0P8P6xmP4,Stick (with JID & J. Cole feat. Kenny Mason & Sheck Wes),J. Cole,6l3HvQ5sa6mXTsMTB19rO5,D-Day: A Gangsta Grillz Mixtape,album,2022-03-31,309322,True,1,1,[]
+7Gn7HA4yOHKXDo6vHCiNXV,Ghetto Gods Freestyle (with EARTHGANG feat. 2 Chainz),J. Cole,6l3HvQ5sa6mXTsMTB19rO5,D-Day: A Gangsta Grillz Mixtape,album,2022-03-31,173589,True,0,0,[]
+0URbdJpIV9B54W2d9yeMwt,Lifestyle (with Bas feat. A$AP Ferg),J. Cole,6l3HvQ5sa6mXTsMTB19rO5,D-Day: A Gangsta Grillz Mixtape,album,2022-03-31,166775,True,3,5,[]
+2OSsmzINPSwQ1hLoMH70Rj,"Starting 5 (with Lute, Cozz & Omen)",J. Cole,6l3HvQ5sa6mXTsMTB19rO5,D-Day: A Gangsta Grillz Mixtape,album,2022-03-31,270044,True,0,0,[]
+3p2HpO3ZgvFs97L15hGZOn,Coming Down (with Ari Lennox),J. Cole,6l3HvQ5sa6mXTsMTB19rO5,D-Day: A Gangsta Grillz Mixtape,album,2022-03-31,156943,True,0,0,[]
+7eheBzQNeMd0ZxU3HoXltE,Hair Salon (with Cozz feat. G Perico & Reason),J. Cole,6l3HvQ5sa6mXTsMTB19rO5,D-Day: A Gangsta Grillz Mixtape,album,2022-03-31,193573,True,0,0,[]
+5pQZullzXsixizZmBcmXhy,Freedom of Speech (with J. Cole),J. Cole,6l3HvQ5sa6mXTsMTB19rO5,D-Day: A Gangsta Grillz Mixtape,album,2022-03-31,131909,True,1,2,[]
+5xpU73nutoJizKpX3TZRhS,Blackberry Sap (with Ari Lennox),J. Cole,6l3HvQ5sa6mXTsMTB19rO5,D-Day: A Gangsta Grillz Mixtape,album,2022-03-31,149738,True,0,0,[]
+2hflEM2ceD3eYZvxglqo5S,Like Wine (with Lute),J. Cole,6l3HvQ5sa6mXTsMTB19rO5,D-Day: A Gangsta Grillz Mixtape,album,2022-03-31,155192,True,0,0,[]
+0T7zFfMGZ5rQEH4VPbNJln,Jozi Flows (with Bas & EARTHGANG),J. Cole,6l3HvQ5sa6mXTsMTB19rO5,D-Day: A Gangsta Grillz Mixtape,album,2022-03-31,175778,True,0,0,[]
+4m3u9rV6KkVemoL5NFqXem,Barry From Simpson (with JID feat. 2 Chainz & Young Nudy),J. Cole,6l3HvQ5sa6mXTsMTB19rO5,D-Day: A Gangsta Grillz Mixtape,album,2022-03-31,197535,True,0,0,[]
+5twFAWoVedKgYZrswt1JIn,Everybody Ain’t Shit (with EARTHGANG),J. Cole,6l3HvQ5sa6mXTsMTB19rO5,D-Day: A Gangsta Grillz Mixtape,album,2022-03-31,203419,True,0,0,[]
+1KsHmftDAysEtLpDK1o6Y9,Ballin in Newport (with Omen),J. Cole,6l3HvQ5sa6mXTsMTB19rO5,D-Day: A Gangsta Grillz Mixtape,album,2022-03-31,212800,True,0,0,[]
+3K7CM76wcnUmzShCPH6q7A,Big Trouble Freestyle (with Cozz),J. Cole,6l3HvQ5sa6mXTsMTB19rO5,D-Day: A Gangsta Grillz Mixtape,album,2022-03-31,163149,True,0,0,[]
+19h1LNf7idduUW3jBeswB8,Heaven’s EP (with J. Cole),J. Cole,6l3HvQ5sa6mXTsMTB19rO5,D-Day: A Gangsta Grillz Mixtape,album,2022-03-31,178291,True,0,0,[]
+5R691ipUYRDYW6ehapjoj6,9 5 . s o u t h,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,The Off-Season,album,2021-05-14,196946,True,289452,2545069,[]
+2cnKST6T9qUo2i907lm8zX,a m a r i,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,The Off-Season,album,2021-05-14,148421,True,443958,5550201,[]
+1D3z6HTiQsNmZxjl7F7eoG,m y . l i f e (with 21 Savage & Morray),J. Cole,6l3HvQ5sa6mXTsMTB19rO5,The Off-Season,album,2021-05-14,218801,True,670188,9720753,"['trap', '21 savage', 'j cole', 'rap', 'Conscious Hip Hop']"
+1d7q712nXjG98HiwHk7HFS,a p p l y i n g . p r e s s u r e,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,The Off-Season,album,2021-05-14,177337,True,249195,1930853,[]
+57ZUX6TNyKLBydAdVVd02x,p u n c h i n ‘ . t h e . c l o c k,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,The Off-Season,album,2021-05-14,112578,True,269568,2109210,[]
+4n6NDfYake476trCjJRNl0,1 0 0 . m i l ‘ (with Bas),J. Cole,6l3HvQ5sa6mXTsMTB19rO5,The Off-Season,album,2021-05-14,163302,True,215860,1890510,[]
+5W8jRrZ6tWrTrqnKRtIQBf,p r i d e . i s . t h e . d e v i l (with Lil Baby),J. Cole,6l3HvQ5sa6mXTsMTB19rO5,The Off-Season,album,2021-05-14,218210,True,476369,6472351,[]
+0GAyuCo975IHGxxiLKDufB,l e t . g o . m y . h a n d (with Bas & 6LACK),J. Cole,6l3HvQ5sa6mXTsMTB19rO5,The Off-Season,album,2021-05-14,266291,True,327921,3614007,[]
+08LwMWf5Tcfsd752EPzFV0,i n t e r l u d e,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,The Off-Season,album,2021-05-14,133021,True,351694,4030764,[]
+5lLNBIyjp72btcnrjBG751,t h e . c l i m b . b a c k,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,The Off-Season,album,2021-05-14,306257,True,271984,2538016,[]
+4YiY551vHi6glMtgVxuqAy,c l o s e,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,The Off-Season,album,2021-05-14,168763,True,203702,1538513,[]
+5BwQjRasNcdRPuVWKcHto2,h u n g e r . o n . h i l l s i d e (with Bas),J. Cole,6l3HvQ5sa6mXTsMTB19rO5,The Off-Season,album,2021-05-14,238971,True,219137,2195981,[]
+1CsMKhwEmNnmvHUuO5nryA,SKINNY,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,HIT ME HARD AND SOFT,album,2024-05-17,219733,False,1028515,15231728,"['alt-pop', 'pop', 'peter', 'singer-songwriter', 'chamber pop']"
+629DixmZGHc7ILtEntuiWE,LUNCH,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,HIT ME HARD AND SOFT,album,2024-05-17,179586,False,1623410,28774660,"['pop rock', 'pop', 'peter', '2024', 'alternative dance']"
+7BRD7x5pt8Lqa1eGYC4dzj,CHIHIRO,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,HIT ME HARD AND SOFT,album,2024-05-17,303440,False,1592218,33337716,"['WSUM 91.7 FM Madison', 'alt-pop', 'Rocket s Adventures with DJ Rocket', 'deep house', 'peter']"
+6dOtVTDdiauQNBQEDOtlAB,BIRDS OF A FEATHER,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,HIT ME HARD AND SOFT,album,2024-05-17,210373,False,2291430,57380136,"['peter', 'alt-pop', '2024', 'pop', 'Olivia']"
+3QaPy1KgI7nu9FJEQUgn6h,WILDFLOWER,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,HIT ME HARD AND SOFT,album,2024-05-17,261466,False,1697827,37684206,"['peter', 'pop', 'edu e marco', 'dream pop', 'billieEilish']"
+6TGd66r0nlPaYm3KIoI7ET,THE GREATEST,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,HIT ME HARD AND SOFT,album,2024-05-17,293840,False,1057765,19123188,"['peter', 'pop rock', 'pop', 'indie', 'epic']"
+6fPan2saHdFaIHuTSatORv,L’AMOUR DE MA VIE,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,HIT ME HARD AND SOFT,album,2024-05-17,333986,False,1046773,17506380,"['peter', 'electropop', 'alt-pop', 'pop', '2024']"
+1LLUoftvmTjVNBHZoQyveF,THE DINER,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,HIT ME HARD AND SOFT,album,2024-05-17,186346,False,939299,14243492,"['alt-pop', 'dark cabaret', '2024', 'zeitspalte', 'jaeh']"
+7DpUoxGSdlDHfqCYj0otzU,BITTERSUITE,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,HIT ME HARD AND SOFT,album,2024-05-17,298440,False,832270,12294836,"['alt-pop', 'art pop', 'peter', 'MALANDRAMENTE', 'Progressive Pop']"
+2prqm9sPLj10B4Wg0wE5x9,BLUE,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,HIT ME HARD AND SOFT,album,2024-05-17,343120,False,1024743,16049614,"['Cambrian O Clock', 'WSUM 91.7 FM Madison', 'peter', 'alt-pop', 'trip hop']"
+4HOryCnbme0zBnF8LWij3f,Getting Older,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Happier Than Ever,album,2021-07-30,244221,False,826028,10660223,"['ambient pop', 'alternative', 'singer-songwriter', 'indie', 'electropop']"
+7bcy34fBT2ap1L4bfPsl9q,I Didn't Change My Number,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Happier Than Ever,album,2021-07-30,158463,True,847047,10880175,"['alternative rnb', 'electropop', 'rnb', 'trip hop', 'alternative']"
+2KnuaZYoGzDoHiBTNYOTXG,Billie Bossa Nova,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Happier Than Ever,album,2021-07-30,196730,False,1039575,15798685,"['Bossa Nova', 'indie', 'brazilian', 'downtempo', 'pop']"
+3YUMWmx8EJq0DurfuIwoGh,my future,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Happier Than Ever,album,2021-07-30,210005,False,945092,12730029,"['indie pop', 'los angeles', '2020', 'pop', 'rnb']"
+4t2OeILB07eMGTXSUbMPEu,Oxytocin,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Happier Than Ever,album,2021-07-30,210232,False,725623,9890035,"['electropop', 'pop', 'techno', 'electronic', 'alternative pop']"
+0FfqyjhB6Kspvit1oOo7ax,GOLDWING,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Happier Than Ever,album,2021-07-30,151536,False,585295,7156538,"['art pop', 'alternative', 'soul', 'indie', 'experimental']"
+4191RXFPa7Ge9XkA4cWlna,Lost Cause,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Happier Than Ever,album,2021-07-30,212496,True,766870,9872430,"['trip hop', 'rnb', 'pop', 'indie', 'downtempo']"
+5XsAal7ZcWg1I5T4NcRjkv,Halley's Comet,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Happier Than Ever,album,2021-07-30,234761,False,902505,14343240,"['pop soul', 'Ballad', 'soul', 'pop', 'Lo-Fi']"
+4T2zre0jqstNJ5Gt0WG9lz,Not My Responsibility,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Happier Than Ever,album,2021-07-30,227679,False,507732,4461977,[]
+5uSG6fUPRaehaV820zcpsK,OverHeated,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Happier Than Ever,album,2021-07-30,214058,True,513856,6072843,"['alternative rnb', 'electropop', 'rnb', 'female vocalists', 'singer-songwriter']"
+5jhBwnqzNNrENXnYrAdoCe,Everybody Dies,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Happier Than Ever,album,2021-07-30,206622,False,513810,5923359,"['alternative', 'ambient pop', 'pop soul', 'sad', 'art pop']"
+042Sl6Mn83JHyLEqdK7uI0,Your Power,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Happier Than Ever,album,2021-07-30,245896,False,821800,10876852,"['folk pop', '2021', 'female vocalists', '2020s', 'folk']"
+38GBNKZUhfBkk3oNlWzRYd,NDA,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Happier Than Ever,album,2021-07-30,195776,True,837057,12508369,"['electropop', 'pop', '2021', 'indie pop', 'alternative rnb']"
+20R4HfKloPKgXDqU7UKk3x,Therefore I Am,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Happier Than Ever,album,2021-07-30,173539,False,1025359,11736132,"['electropop', 'alt-pop', 'alternative rnb', 'pop', 'rnb']"
+4RVwu0g32PAqgUiJoXsdF8,Happier Than Ever,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Happier Than Ever,album,2021-07-30,298899,True,1596815,29920866,"['noise pop', 'rock', 'pop', 'pop punk', 'singer-songwriter']"
+4ak9GGe6afmi2HbxEjvhIC,Male Fantasy,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Happier Than Ever,album,2021-07-30,194886,False,672250,10418835,"['singer-songwriter', 'peter', 'folk', 'folk pop', 'female vocalists']"
+0rQtoQXQfwpDW0c7Fw1NeM,!!!!!!!,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",album,2019-03-29,13578,False,34983,422136,[]
+2Fxmhks0bxGSBdJ92vM42m,bad guy,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",album,2019-03-29,194087,False,1698992,20741263,"['electropop', 'dance-pop', 'pop', 'trap', 'indie pop']"
+4QIo4oxwzzafcBWkKjDpXY,xanny,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",album,2019-03-29,243725,False,857106,9425538,"['alternative rnb', 'glitch pop', 'pop', 'indie pop', 'alt-pop']"
+3XF5xLJHOQQRbWya6hBp7d,you should see me in a crown,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",album,2019-03-29,180952,False,1171760,12796648,"['electropop', 'pop', 'trap', 'indie', 'indie pop']"
+6IRdLKIyS4p7XNiP8r6rsx,all the good girls go to hell,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",album,2019-03-29,168839,False,1027364,10706451,"['electropop', 'pop', '2010s', 'indie pop', '2019']"
+3Fj47GNK2kUF0uaEDgXLaD,wish you were gay,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",album,2019-03-29,221543,False,1067972,12409170,"['contemporary rnb', 'indie', 'pop', 'electropop', 'indie pop']"
+43zdsphuZLzwA9k4DJhU0I,when the party's over,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",album,2019-03-29,196077,False,1647172,22810079,"['pop', 'art pop', 'ambient pop', 'Ballad', '2010s']"
+6X29iaaazwho3ab7GNue5r,8,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",album,2019-03-29,173201,False,648673,6371363,[]
+3Tc57t9l2O8FwQZtQOvPXK,my strange addiction,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",album,2019-03-29,179889,False,1006103,10709300,"['electropop', 'pop', 'scarn pop', 'indie pop', 'dance-pop']"
+4SSnFejRGlZikf02HLewEF,bury a friend,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",album,2019-03-29,193143,False,1130896,13195060,"['electropop', 'alternative rnb', 'pop', 'industrial', 'electro-industrial']"
+7qEKqBCD2vE5vIBsrUitpD,ilomilo,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",album,2019-03-29,156370,False,900423,11573059,"['electropop', 'Billie Eilish', 'alternative', 'indie pop', 'peter']"
+0tMSssfxAL2oV8Vri0mFHE,listen before i go,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",album,2019-03-29,242652,False,1001935,13646701,"['ambient pop', 'indie pop', 'Billie Eilish', 'pop', '2010s']"
+6CcJMwBtXByIz4zQLzFkKc,i love you,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",album,2019-03-29,291796,False,1278112,19683870,"['2010s', 'indie pop', 'acoustic', 'Ballad', 'pop']"
+3LgWsmilsrWXiPYQFRD0T7,goodbye,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",album,2019-03-29,119409,False,663638,6521985,[]
+43ZbuNZJFbgGsYR5zq5ZKd,INTRO (HIT ME HARD AND SOFT TOUR),Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,INTRO (HIT ME HARD AND SOFT TOUR),single,2026-04-24,116878,False,47297,169125,[]
+3WOhcATHxK2SLNeP5W3v1v,Guess featuring billie eilish,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Guess featuring billie eilish,single,2024-08-01,143330,False,702,1934,[]
